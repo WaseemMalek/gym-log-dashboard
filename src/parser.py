@@ -138,15 +138,22 @@ def parse_gym_log(file_path):
 
 if __name__ == "__main__":
     # File paths
-    input_file = "C:/Waseem/gym-log-parser/data/gym_log_raw.txt"
-    output_file = "C:/Waseem/gym-log-parser/data/structured_gym_log.csv"
+    input_file = "data/gym_log_raw.txt"
+    output_full = "data/structured_gym_log.csv"
+    output_public = "data/structured_public.csv"
 
     df = parse_gym_log(input_file)
     print(f"\nParsed {len(df)} rows.")
     print(df.head())
 
     if not df.empty:
-        df.to_csv(output_file, index=False)
-        print(f"\nSaved structured data to '{output_file}'")
+        # Save full version with notes
+        df.to_csv(output_full, index=False)
+        print(f"Saved full structured data to '{output_full}'")
+
+        # Save public version without notes
+        df.drop(columns=["Note"]).to_csv(output_public, index=False)
+        print(f"Saved public version to '{output_public}' (no notes)")
     else:
-        print("\nNo data to save.")
+        print("No data to save.")
+
