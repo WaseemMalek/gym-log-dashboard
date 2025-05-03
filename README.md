@@ -62,4 +62,4 @@ Outputs structured_gym_log.csv in the data/ folder.
 
 streamlit run gym_dashboard.py
 
-
+Made with Python 🐍, Streamlit 📊, and sweat 💪.
