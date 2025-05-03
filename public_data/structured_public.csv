@@ -1,0 +1,2975 @@
+Date,Exercise,Weight (kg),Reps,Sets
+2023-08-02,Bench Press,45,,
+2023-08-02,Standing Shoulder Press,5,,
+2023-08-02,Triceps Extensions,13,,
+2023-08-07,Deadlifts,40,8.0,1.0
+2023-08-07,Deadlifts,40,8.0,1.0
+2023-08-07,Deadlifts,40,8.0,1.0
+2023-08-07,Bicep Curls,6,8.0,1.0
+2023-08-07,Bicep Curls,8,8.0,1.0
+2023-08-07,Cable Row (Narrow Grip),17,,
+2023-08-07,Bent Over Bicep Curl,6,,
+2023-08-08,Squats,30,,
+2023-08-08,Romanian Deadlifts,30,,
+2023-08-08,Bulgarian Split Squats,2,,
+2023-08-08,Smith Machine Calf Raises,30,,
+2023-08-11,Bent Over Row With Barbell,25,,
+2023-08-11,Should Shrugs,30,,
+2023-08-11,Routine Where We Did,6,,
+2023-08-14,Squats,20,8.0,1.0
+2023-08-14,Squats,20,8.0,1.0
+2023-08-14,Squats,20,8.0,1.0
+2023-08-14,Squats,25,4.0,1.0
+2023-08-14,Romanian Deadlift,20,8.0,1.0
+2023-08-14,Romanian Deadlift,30,8.0,1.0
+2023-08-14,Romanian Deadlift,30,8.0,1.0
+2023-08-14,Romanian Deadlift,30,8.0,1.0
+2023-08-14,Smith Machine Calf Raises,20,8.0,1.0
+2023-08-14,Smith Machine Calf Raises,30,8.0,1.0
+2023-08-14,Smith Machine Calf Raises,30,8.0,1.0
+2023-08-14,Smith Machine Calf Raises,5,8.0,1.0
+2023-08-15,Overhead Standing Shoulder Press,20,8.0,1.0
+2023-08-15,Overhead Standing Shoulder Press,20,8.0,1.0
+2023-08-15,Overhead Standing Shoulder Press,20,8.0,1.0
+2023-08-15,Overhead Standing Shoulder Press,20,8.0,1.0
+2023-08-15,Bench Press,20,8.0,1.0
+2023-08-15,Bench Press,30,8.0,1.0
+2023-08-15,Bench Press,35,4.0,1.0
+2023-08-15,Bench Press,35,4.0,1.0
+2023-08-15,Triceps Extensions,25,8.0,1.0
+2023-08-17,Deadlifts,30,8.0,1.0
+2023-08-17,Deadlifts,40,8.0,1.0
+2023-08-17,Deadlifts,45,8.0,1.0
+2023-08-17,Deadlifts,50,8.0,1.0
+2023-08-17,Lat Pulldown,5,8.0,1.0
+2023-08-17,Lat Pulldown,5,8.0,1.0
+2023-08-17,Lat Pulldown,5,8.0,1.0
+2023-08-17,Lat Pulldown,15,8.0,1.0
+2023-08-17,Cable Row (Narrow Grip),13,8.0,1.0
+2023-08-17,Cable Row (Narrow Grip),13,8.0,1.0
+2023-08-17,Cable Row (Narrow Grip),17,8.0,1.0
+2023-08-17,Cable Row (Narrow Grip),17,8.0,1.0
+2023-08-17,Cable Row (Narrow Grip),20,4.0,1.0
+2023-08-17,Bicep Curl,5,8.0,1.0
+2023-08-17,Bicep Curl,8,5.0,1.0
+2023-08-17,Bicep Curl,8,5.0,1.0
+2023-08-17,Bicep Curl,8,5.0,1.0
+2023-08-19,Bench Press,30,8.0,1.0
+2023-08-19,Bench Press,40,8.0,1.0
+2023-08-19,Bench Press,45,5.0,1.0
+2023-08-19,Bench Press,50,1.0,1.0
+2023-08-19,Bench Press,50,1.0,1.0
+2023-08-19,Seated Shoulder Press,10,10.0,1.0
+2023-08-19,Seated Shoulder Press,12,8.0,1.0
+2023-08-19,Seated Shoulder Press,12,8.0,1.0
+2023-08-19,Seated Shoulder Press,12,3.0,1.0
+2023-08-19,Seated Shoulder Press,10,6.0,1.0
+2023-08-19,Namaste Press,5,8.0,1.0
+2023-08-19,Namaste Press,5,8.0,1.0
+2023-08-19,Namaste Press,10,8.0,1.0
+2023-08-19,Single Arm French Press,4,8.0,1.0
+2023-08-19,Single Arm French Press,6,4.0,1.0
+2023-08-19,Tricep Extension (Bar),25,10.0,1.0
+2023-08-19,Tricep Extension (Bar),25,5.0,1.0
+2023-08-19,Cable Lateral Raise (One Armed),25,6.0,1.0
+2023-08-19,Cable Lateral Raise (One Armed),75,3.0,1.0
+2023-08-19,Cable Lateral Raise (One Armed),75,5.0,1.0
+2023-08-21,Deadlifts,50,8.0,1.0
+2023-08-21,Deadlifts,60,5.0,1.0
+2023-08-21,Deadlifts,70,3.0,1.0
+2023-08-21,Deadlifts,80,2.0,1.0
+2023-08-21,Deadlifts,90,1.0,1.0
+2023-08-22,Squats,30,8.0,1.0
+2023-08-22,Squats,35,8.0,1.0
+2023-08-22,Squats,40,5.0,1.0
+2023-08-22,Squats,45,3.0,1.0
+2023-08-22,Leg Curl,5,8.0,1.0
+2023-08-22,Leg Curl,5,5.0,1.0
+2023-08-22,Leg Curl,5,6.0,1.0
+2023-08-22,Calf Machine,10,8.0,1.0
+2023-08-22,Calf Machine,10,8.0,1.0
+2023-08-22,Calf Machine,10,8.0,1.0
+2023-08-24,Bench Press,30,8.0,1.0
+2023-08-24,Bench Press,35,8.0,1.0
+2023-08-24,Bench Press,40,7.0,1.0
+2023-08-24,Bench Press,45,8.0,1.0
+2023-08-24,Bench Press,50,1.0,1.0
+2023-08-24,Incline Dumbbell Bench Press,15,8.0,1.0
+2023-08-24,Incline Dumbbell Bench Press,15,8.0,1.0
+2023-08-24,Incline Dumbbell Bench Press,15,8.0,1.0
+2023-08-24,Skull Crusher (Small Barbell),15,8.0,1.0
+2023-08-24,Skull Crusher (Small Barbell),20,8.0,1.0
+2023-08-24,Skull Crusher (Small Barbell),20,6.0,1.0
+2023-08-24,Shoulder Press (Pulley Machine),20,8.0,1.0
+2023-08-24,Shoulder Press (Cog Machine),5,8.0,1.0
+2023-08-24,Shoulder Press (Cog Machine),10,8.0,1.0
+2023-08-24,Shoulder Press (Cog Machine),15,8.0,1.0
+2023-08-27,Lat Pull Down,10,10.0,1.0
+2023-08-27,Lat Pull Down,20,10.0,1.0
+2023-08-27,Lat Pull Down,30,7.0,1.0
+2023-08-27,Lat Pull Down,25,10.0,1.0
+2023-08-27,Deadlifts,50,10.0,1.0
+2023-08-27,Deadlifts,60,8.0,1.0
+2023-08-27,Deadlifts,80,3.0,1.0
+2023-08-27,Deadlifts,90,1.0,1.0
+2023-08-27,Deadlifts,90,1.0,1.0
+2023-08-27,Hammer Curls,8,6.0,1.0
+2023-08-27,Hammer Curls,6,10.0,1.0
+2023-08-27,Hammer Curls,6,10.0,1.0
+2023-08-27,Hammer Curls,6,10.0,1.0
+2023-08-27,Rows,20,5.0,1.0
+2023-08-27,Rows,20,5.0,1.0
+2023-08-27,Rows,20,5.0,1.0
+2023-08-27,"Bicep Curl (Cable, Narrow Grip)",18,6.0,1.0
+2023-08-29,Squats,30,8.0,1.0
+2023-08-29,Squats,40,7.0,1.0
+2023-08-29,Squats,50,2.0,1.0
+2023-08-29,Lunges,20,,
+2023-08-29,Romanian Deadlift,30,10.0,1.0
+2023-08-29,Romanian Deadlift,70,3.0,1.0
+2023-08-29,Romanian Deadlift,50,8.0,1.0
+2023-08-29,Romanian Deadlift,50,8.0,1.0
+2023-08-29,Calf Raises (Smith Machine),50,8.0,1.0
+2023-08-29,Calf Raises (Smith Machine),50,8.0,1.0
+2023-08-30,Dumbbell Bench Press,15,10.0,1.0
+2023-08-30,Dumbbell Bench Press,18,6.0,1.0
+2023-08-30,Dumbbell Bench Press,18,8.0,1.0
+2023-08-30,Dumbbell Bench Press,16,6.0,1.0
+2023-08-30,Shoulder Press,20,8.0,1.0
+2023-08-30,Shoulder Press,5,8.0,1.0
+2023-08-30,Shoulder Press,25,8.0,1.0
+2023-08-30,Shoulder Press,5,3.0,1.0
+2023-09-01,Deadlifts,40,10.0,1.0
+2023-09-01,Deadlifts,60,10.0,1.0
+2023-09-01,Deadlifts,70,10.0,1.0
+2023-09-01,Deadlifts,60,12.0,1.0
+2023-09-01,Alternate Dumbbell Rows,5,8.0,1.0
+2023-09-01,Alternate Dumbbell Rows,5,8.0,1.0
+2023-09-01,Alternate Dumbbell Rows,5,8.0,1.0
+2023-09-01,Shoulder Raises,15,10.0,1.0
+2023-09-01,Shoulder Raises,15,10.0,1.0
+2023-09-01,Shoulder Raises,18,10.0,1.0
+2023-09-01,Alternating Sitting Bicep Curl,5,9.0,1.0
+2023-09-01,Alternating Sitting Bicep Curl,7,7.0,1.0
+2023-09-01,Alternating Sitting Bicep Curl,7,5.0,1.0
+2023-09-04,Squats,20,12.0,1.0
+2023-09-04,Squats,30,12.0,1.0
+2023-09-04,Squats,40,12.0,1.0
+2023-09-04,Squats,45,8.0,1.0
+2023-09-04,Squats,30,14.0,1.0
+2023-09-04,Hip Adductor Out,30,12.0,1.0
+2023-09-04,Hip Adductor Out,45,12.0,1.0
+2023-09-04,Hip Adductor In,30,12.0,1.0
+2023-09-04,Hip Adductor In,45,12.0,1.0
+2023-09-04,Linear Leg Press,20,12.0,1.0
+2023-09-04,Linear Leg Press,30,6.0,1.0
+2023-09-05,Bench Press,30,12.0,1.0
+2023-09-05,Bench Press,40,10.0,1.0
+2023-09-05,Bench Press,45,6.0,1.0
+2023-09-05,Bench Press,5,8.0,1.0
+2023-09-05,Arnold Press,8,12.0,1.0
+2023-09-05,Arnold Press,12,6.0,1.0
+2023-09-05,Arnold Press,12,4.0,1.0
+2023-09-05,Arnold Press,10,6.0,1.0
+2023-09-05,Arnold Press,10,6.0,1.0
+2023-09-05,Cable Crossover,5,6.0,1.0
+2023-09-05,Cable Crossover,5,6.0,1.0
+2023-09-05,Cable Crossover On Knees,5,6.0,1.0
+2023-09-05,Overhead Tricep Extensions,8,8.0,1.0
+2023-09-05,Overhead Tricep Extensions,11,4.0,1.0
+2023-09-05,Tricep Extensions,11,8.0,1.0
+2023-09-05,Tricep Extensions,11,8.0,1.0
+2023-09-07,Deadlifts,50,5.0,1.0
+2023-09-07,Deadlifts,60,5.0,1.0
+2023-09-07,Deadlifts,70,5.0,1.0
+2023-09-07,Deadlifts,80,5.0,1.0
+2023-09-07,Deadlifts,90,2.0,1.0
+2023-09-07,Raised Deadlifts,50,8.0,1.0
+2023-09-07,Raised Deadlifts,50,8.0,1.0
+2023-09-07,Crossover Pulls (Cables),25,10.0,1.0
+2023-09-07,Crossover Pulls (Cables),25,10.0,1.0
+2023-09-07,Crossover Pulls (Cables),5,10.0,1.0
+2023-09-07,T Bar Row,20,4.0,1.0
+2023-09-07,T Bar Row,10,8.0,1.0
+2023-09-07,T Bar Row,10,10.0,1.0
+2023-09-07,Hammer Curls,7,8.0,1.0
+2023-09-07,Hammer Curls,7,8.0,1.0
+2023-09-07,Hammer Curls,7,8.0,1.0
+2023-09-07,Back Rows,25,5.0,1.0
+2023-09-07,Back Rows,25,4.0,1.0
+2023-09-11,Squats,20,12.0,1.0
+2023-09-11,Squats,30,8.0,1.0
+2023-09-11,Squats,40,8.0,1.0
+2023-09-11,Squats,40,8.0,1.0
+2023-09-11,Squats,40,8.0,1.0
+2023-09-11,Lunges,20,,
+2023-09-11,Seated Calf,10,8.0,1.0
+2023-09-11,Seated Calf,10,8.0,1.0
+2023-09-11,Seated Calf,10,8.0,1.0
+2023-09-11,Seated Calf,10,8.0,1.0
+2023-09-12,Incline Bench Press,40,6.0,1.0
+2023-09-12,Incline Bench Press,40,6.0,1.0
+2023-09-12,Incline Bench Press,35,10.0,1.0
+2023-09-12,Incline Bench Press,35,8.0,1.0
+2023-09-12,Shoulder Press (Dumbbell),10,10.0,1.0
+2023-09-12,Shoulder Press (Dumbbell),10,10.0,1.0
+2023-09-12,Shoulder Press (Dumbbell),5,8.0,1.0
+2023-09-12,Shoulder Press (Dumbbell),5,8.0,1.0
+2023-09-12,Bench Fly'S (Dumbbells),7,8.0,1.0
+2023-09-12,Bench Fly'S (Dumbbells),10,6.0,1.0
+2023-09-12,Bench Fly'S (Dumbbells),7,10.0,1.0
+2023-09-12,Anchored Barbell Shoulder Press,20,12.0,1.0
+2023-09-12,Anchored Barbell Shoulder Press,30,8.0,1.0
+2023-09-12,Anchored Barbell Shoulder Press,5,8.0,1.0
+2023-09-12,Anchored Barbell Shoulder Press,35,8.0,1.0
+2023-09-12,Tricep Extensions,25,8.0,1.0
+2023-09-12,Tricep Extensions,75,4.0,1.0
+2023-09-12,Tricep Extensions,25,8.0,1.0
+2023-09-12,Tricep Extensions,75,5.0,1.0
+2023-09-14,Rows,25,7.0,1.0
+2023-09-14,Rows,25,7.0,1.0
+2023-09-14,Rows,25,7.0,1.0
+2023-09-14,Rows,20,10.0,1.0
+2023-09-14,Deadlifts,50,10.0,1.0
+2023-09-14,Deadlifts,70,8.0,1.0
+2023-09-14,Deadlifts,80,6.0,1.0
+2023-09-14,Deadlifts,70,8.0,1.0
+2023-09-14,Bicep Curl,6,8.0,1.0
+2023-09-14,Bicep Curl,10,7.0,1.0
+2023-08-17,Squats,30,8.0,1.0
+2023-08-17,Squats,40,8.0,1.0
+2023-08-17,Squats,50,4.0,1.0
+2023-08-17,Bulgarian Split Squats,6,8.0,1.0
+2023-08-17,Bulgarian Split Squats,6,8.0,1.0
+2023-08-17,Bulgarian Split Squats,8,8.0,1.0
+2023-08-17,Sit Ups Bench,5,,
+2023-08-17,Smith Machine Calf Raises,40,8.0,1.0
+2023-08-17,Smith Machine Calf Raises,50,10.0,1.0
+2023-08-17,Smith Machine Calf Raises,50,10.0,1.0
+2023-09-18,Bench Press,40,8.0,1.0
+2023-09-18,Bench Press,50,2.0,1.0
+2023-09-18,Bench Press,55,1.0,1.0
+2023-09-18,Bench Press,50,1.0,1.0
+2023-09-18,Shoulder Press (Barbell),20,8.0,1.0
+2023-09-18,Shoulder Press (Barbell),25,8.0,1.0
+2023-09-18,Shoulder Press (Barbell),25,8.0,1.0
+2023-09-18,Pectoral Fly,35,8.0,1.0
+2023-09-18,Pectoral Fly,5,8.0,1.0
+2023-09-18,Pectoral Fly,35,8.0,1.0
+2023-09-18,Pectoral Fly,35,8.0,1.0
+2023-09-18,Lateral Raises,6,8.0,1.0
+2023-09-18,Lateral Raises,6,8.0,1.0
+2023-09-18,Lateral Raises,6,8.0,1.0
+2023-09-18,Lateral Raises,6,8.0,1.0
+2023-09-19,Lat Pull Down,75,8.0,1.0
+2023-09-19,Lat Pull Down,5,8.0,1.0
+2023-09-19,Lat Pull Down,75,8.0,1.0
+2023-09-19,Lat Pull Down (Narrow Grip),75,8.0,1.0
+2023-09-19,Lat Pull Down (Narrow Grip),5,8.0,1.0
+2023-09-19,Narrow Grip Cable Row,5,12.0,1.0
+2023-09-19,Narrow Grip Cable Row,5,7.0,1.0
+2023-09-19,Narrow Grip Cable Row,5,5.0,1.0
+2023-09-19,Face Pulls,7,12.0,1.0
+2023-09-19,Face Pulls,5,12.0,1.0
+2023-09-19,Face Pulls,15,8.0,1.0
+2023-09-19,Lower Back Contraption,5,10.0,1.0
+2023-09-19,Lower Back Contraption,10,10.0,1.0
+2023-09-19,Shrugs,20,8.0,1.0
+2023-09-19,Bicep Curls Cable,75,8.0,1.0
+2023-09-19,Bicep Curls Cable,25,8.0,1.0
+2023-09-19,Bicep Curls Cable,25,8.0,1.0
+2023-09-21,Squats,30,8.0,1.0
+2023-09-21,Squats,40,8.0,1.0
+2023-09-21,Squats,50,6.0,1.0
+2023-09-21,Squats,55,2.0,1.0
+2023-09-21,Squats,60,2.0,1.0
+2023-09-21,Lunges,20,5.0,1.0
+2023-09-21,Lunges,25,6.0,1.0
+2023-09-21,Seated Leg Curl (1 Leg),5,10.0,1.0
+2023-09-21,Hip Thrust Machine,10,8.0,1.0
+2023-09-21,Hip Thrust Machine,50,5.0,1.0
+2023-09-24,Incline Dumbbell Press,14,8.0,1.0
+2023-09-24,Incline Dumbbell Press,16,8.0,1.0
+2023-09-24,Incline Dumbbell Press,16,6.0,1.0
+2023-09-24,Incline Dumbbell Press,16,9.0,1.0
+2023-09-24,Arnold Press,10,10.0,1.0
+2023-09-24,Arnold Press,5,8.0,1.0
+2023-09-24,Arnold Press,5,8.0,1.0
+2023-09-24,Decline Bench Press,20,8.0,1.0
+2023-09-24,Decline Bench Press,40,8.0,1.0
+2023-09-24,Narrow Grip (Chest Press),30,8.0,1.0
+2023-09-24,Narrow Grip (Chest Press),35,8.0,1.0
+2023-09-24,Narrow Grip (Chest Press),40,3.0,1.0
+2023-09-24,Lateral Raises,6,8.0,1.0
+2023-09-24,Lateral Raises,6,8.0,1.0
+2023-09-24,Lateral Raises,8,6.0,1.0
+2023-09-24,Tricep Extensions,75,2.0,1.0
+2023-09-25,Deadlifts,50,8.0,1.0
+2023-09-25,Deadlifts,70,8.0,1.0
+2023-09-25,Deadlifts,80,8.0,1.0
+2023-09-25,Deadlifts,90,4.0,1.0
+2023-09-25,Bent Over Lateral Raises,5,8.0,1.0
+2023-09-25,Bent Over Lateral Raises,6,6.0,1.0
+2023-09-25,Bent Over Lateral Raises,6,8.0,1.0
+2023-09-25,Bent Over Lateral Raises,6,8.0,1.0
+2023-09-25,Bent Over Lateral Raises,5,8.0,1.0
+2023-09-25,Bicep Curls,10,10.0,1.0
+2023-09-25,Bicep Curls,10,9.0,1.0
+2023-09-25,Bicep Curls,10,6.0,1.0
+2023-09-26,Squats,30,12.0,1.0
+2023-09-26,Squats,40,12.0,1.0
+2023-09-26,Squats,50,8.0,1.0
+2023-09-26,Squats,50,5.0,1.0
+2023-09-26,Romanian Deadlifts,40,12.0,1.0
+2023-09-26,Romanian Deadlifts,60,8.0,1.0
+2023-09-26,Romanian Deadlifts,60,8.0,1.0
+2023-09-26,Cable Crunches,17,8.0,1.0
+2023-09-26,Cable Crunches,21,8.0,1.0
+2023-09-26,Cable Crunches,75,12.0,1.0
+2023-09-29,Bench Press,40,12.0,1.0
+2023-09-29,Bench Press,45,8.0,1.0
+2023-09-29,Bench Press,40,10.0,1.0
+2023-09-29,Dumbbell Fly'S,10,8.0,1.0
+2023-09-29,Dumbbell Fly'S,10,8.0,1.0
+2023-09-29,Dumbbell Fly'S,10,10.0,1.0
+2023-09-29,Lateral Raises (Cables),75,6.0,1.0
+2023-09-29,Lateral Raises (Cables),75,6.0,1.0
+2023-09-29,Lateral Raises (Cables),75,8.0,1.0
+2023-09-30,Deadlifts,60,10.0,1.0
+2023-09-30,Deadlifts,70,12.0,1.0
+2023-09-30,Deadlifts,70,10.0,1.0
+2023-09-30,Deadlifts,70,8.0,1.0
+2023-09-30,Iso Lateral Rows,20,10.0,1.0
+2023-09-30,Iso Lateral Rows,30,8.0,1.0
+2023-09-30,Iso Lateral Rows,30,8.0,1.0
+2023-09-30,Spider Man Curls,15,12.0,1.0
+2023-09-30,Hammer Curls,10,6.0,1.0
+2023-09-30,Hammer Curls,10,4.0,1.0
+2023-09-30,Hammer Curls,10,5.0,1.0
+2023-10-02,Squats,35,12.0,1.0
+2023-10-02,Squats,45,10.0,1.0
+2023-10-02,Squats,45,10.0,1.0
+2023-10-02,Squats,45,4.0,1.0
+2023-10-02,Seated Leg Press,5,8.0,1.0
+2023-10-02,Seated Leg Press,5,8.0,1.0
+2023-10-02,Seated Leg Press,5,8.0,1.0
+2023-10-02,Seated Calf Raises,20,12.0,1.0
+2023-10-02,Seated Calf Raises,15,12.0,1.0
+2023-10-02,Seated Calf Raises,15,10.0,1.0
+2023-10-03,Incline Bench Press,30,12.0,1.0
+2023-10-03,Incline Bench Press,40,7.0,1.0
+2023-10-03,Incline Bench Press,40,7.0,1.0
+2023-10-03,Incline Bench Press,40,6.0,1.0
+2023-10-03,Barbell Shoulder Press,25,10.0,1.0
+2023-10-03,Barbell Shoulder Press,30,2.0,1.0
+2023-10-03,Barbell Shoulder Press,25,8.0,1.0
+2023-10-03,Side Cable Pulls,25,10.0,1.0
+2023-10-03,Side Cable Pulls,75,10.0,1.0
+2023-10-03,"Crazy Raises Superset (Front, Sideways, Back)",5,3.0,1.0
+2023-10-03,Skull Crusher'S,20,8.0,1.0
+2023-10-03,Skull Crusher'S,20,10.0,1.0
+2023-10-05,Deadlifts,60,5.0,1.0
+2023-10-05,Deadlifts,80,3.0,1.0
+2023-10-05,Deadlifts,90,1.0,1.0
+2023-10-05,Deadlifts,100,1.0,1.0
+2023-10-05,Deadlifts,105,1.0,1.0
+2023-10-05,Cable Rows,75,10.0,1.0
+2023-10-05,Cable Rows,5,10.0,1.0
+2023-10-05,Cable Rows,25,5.0,1.0
+2023-10-05,Cable Rows,5,5.0,1.0
+2023-10-05,Shrugs,10,8.0,1.0
+2023-10-05,Shrugs,15,8.0,1.0
+2023-10-05,Shrugs,20,8.0,1.0
+2023-10-05,Bicep Curl,8,8.0,1.0
+2023-10-05,Bicep Curl,10,8.0,1.0
+2023-10-05,Bicep Curl,5,3.0,1.0
+2023-10-08,Squats,40,5.0,1.0
+2023-10-08,Squats,60,1.0,1.0
+2023-10-08,Squats,70,1.0,1.0
+2023-10-08,Linear Leg Press,20,12.0,1.0
+2023-10-08,Linear Leg Press,25,6.0,1.0
+2023-10-08,Linear Leg Press,30,8.0,1.0
+2023-10-08,Linear Leg Press,35,9.0,1.0
+2023-10-08,Linear Leg Press,45,2.0,1.0
+2023-10-08,Leg Extensions,5,12.0,1.0
+2023-10-08,Leg Extensions,5,12.0,1.0
+2023-10-08,Leg Extensions,20,12.0,1.0
+2023-10-08,Ab Machine,8,8.0,1.0
+2023-10-08,Ab Machine,8,6.0,1.0
+2023-10-08,Smithing Machine Calf Raises,50,10.0,1.0
+2023-10-08,Smithing Machine Calf Raises,70,4.0,1.0
+2023-10-08,Smithing Machine Calf Raises,60,10.0,1.0
+2023-11-28,Bench Press,40,8.0,1.0
+2023-11-28,Bench Press,40,8.0,1.0
+2023-11-28,Bench Press,40,8.0,1.0
+2023-11-28,Shoulder Press (Barbell),20,8.0,1.0
+2023-11-28,Shoulder Press (Barbell),25,8.0,1.0
+2023-11-28,Shoulder Press (Barbell),25,8.0,1.0
+2023-11-28,Pectoral Fly,35,8.0,1.0
+2023-11-28,Pectoral Fly,5,8.0,1.0
+2023-11-28,Pectoral Fly,5,4.0,1.0
+2023-11-28,Lateral Raises,5,10.0,1.0
+2023-11-28,Lateral Raises,5,10.0,1.0
+2023-11-28,Lateral Raises,5,10.0,1.0
+2023-11-29,Deadlifts,60,8.0,1.0
+2023-11-29,Deadlifts,60,8.0,1.0
+2023-11-29,Deadlifts,70,5.0,1.0
+2023-11-29,Deadlifts,70,5.0,1.0
+2023-11-29,Bicep Curl,8,6.0,1.0
+2023-11-29,Bicep Curl,10,8.0,1.0
+2023-11-29,Bicep Curl,10,8.0,1.0
+2023-11-29,Bicep Curl,10,8.0,1.0
+2023-12-02,Squats,40,8.0,1.0
+2023-12-02,Squats,45,8.0,1.0
+2023-12-02,Squats,45,8.0,1.0
+2023-12-02,Squats,50,8.0,1.0
+2023-12-02,Leg Extension,35,8.0,1.0
+2023-12-02,Leg Extension,35,8.0,1.0
+2023-12-02,Leg Extension,35,8.0,1.0
+2023-12-02,Leg Extension,5,8.0,1.0
+2023-12-02,Seated Leg Curl,35,8.0,1.0
+2023-12-02,Seated Leg Curl,35,8.0,1.0
+2023-12-02,Seated Leg Curl,5,8.0,1.0
+2023-12-02,Seated Calf Raises,15,10.0,1.0
+2023-12-02,Seated Calf Raises,15,10.0,1.0
+2023-12-02,Seated Calf Raises,15,10.0,1.0
+2023-12-04,Bench Press,40,8.0,1.0
+2023-12-04,Bench Press,40,8.0,1.0
+2023-12-04,Bench Press,40,8.0,1.0
+2023-12-04,Shoulder Press (Barbell),25,8.0,1.0
+2023-12-04,Shoulder Press (Barbell),5,8.0,1.0
+2023-12-04,Shoulder Press (Barbell),25,8.0,1.0
+2023-12-04,Pectoral Fly,35,8.0,1.0
+2023-12-04,Pectoral Fly,5,8.0,1.0
+2023-12-04,Pectoral Fly,5,8.0,1.0
+2023-12-04,Pectoral Fly,35,8.0,1.0
+2023-12-04,Lateral Raises,5,8.0,1.0
+2023-12-04,Lateral Raises,5,8.0,1.0
+2023-12-04,Lateral Raises,6,8.0,1.0
+2023-12-04,Lateral Raises,6,8.0,1.0
+2023-12-05,Deadlifts,60,8.0,1.0
+2023-12-05,Deadlifts,70,8.0,1.0
+2023-12-05,Deadlifts,70,8.0,1.0
+2023-12-05,Deadlifts,80,4.0,1.0
+2023-12-05,Bicep Curl,8,8.0,1.0
+2023-12-05,Bicep Curl,8,8.0,1.0
+2023-12-05,Bicep Curl,8,8.0,1.0
+2023-12-07,Squats,40,8.0,1.0
+2023-12-07,Squats,45,10.0,1.0
+2023-12-07,Squats,50,10.0,1.0
+2023-12-11,Bench Press,40,8.0,1.0
+2023-12-11,Bench Press,45,8.0,1.0
+2023-12-11,Bench Press,45,8.0,1.0
+2023-12-11,Shoulder Press (Barbell),25,8.0,1.0
+2023-12-11,Shoulder Press (Barbell),5,8.0,1.0
+2023-12-11,Shoulder Press (Barbell),25,8.0,1.0
+2023-12-11,Pectoral Fly,35,8.0,1.0
+2023-12-11,Pectoral Fly,35,8.0,1.0
+2023-12-11,Pectoral Fly,5,8.0,1.0
+2023-12-11,Pectoral Fly,5,8.0,1.0
+2023-12-11,Lateral Raises,5,8.0,1.0
+2023-12-11,Lateral Raises,6,8.0,1.0
+2023-12-11,Lateral Raises,6,8.0,1.0
+2023-12-11,Lateral Raises,6,8.0,1.0
+2023-12-13,Deadlifts,70,8.0,1.0
+2023-12-13,Deadlifts,70,8.0,1.0
+2023-12-13,Deadlifts,80,8.0,1.0
+2023-12-13,Deadlifts,70,8.0,1.0
+2023-12-13,Barbell Rows,30,8.0,1.0
+2023-12-13,Barbell Rows,30,8.0,1.0
+2023-12-13,Barbell Rows,30,8.0,1.0
+2023-12-13,Seated Cable Rows,25,8.0,1.0
+2023-12-13,Seated Cable Rows,25,8.0,1.0
+2023-12-13,Seated Cable Rows,25,8.0,1.0
+2023-12-13,Face Pulls,25,8.0,1.0
+2023-12-13,Face Pulls,75,12.0,1.0
+2023-12-13,Face Pulls,75,12.0,1.0
+2023-12-13,Bicep Curls,8,8.0,1.0
+2023-12-13,Bicep Curls,10,8.0,1.0
+2023-12-13,Bicep Curls,8,8.0,1.0
+2023-12-14,Squats,40,8.0,1.0
+2023-12-14,Squats,40,8.0,1.0
+2023-12-14,Squats,50,8.0,1.0
+2023-12-14,Squats,50,8.0,1.0
+2023-12-14,Leg Press (50Kg Already Loaded),30,8.0,1.0
+2023-12-14,Leg Press (50Kg Already Loaded),40,8.0,1.0
+2023-12-14,Leg Press (50Kg Already Loaded),40,8.0,1.0
+2023-12-14,Romanian Deadlifts,40,8.0,1.0
+2023-12-14,Romanian Deadlifts,45,8.0,1.0
+2023-12-14,Romanian Deadlifts,50,8.0,1.0
+2023-12-14,Leg Curls,5,8.0,1.0
+2023-12-14,Leg Curls,5,8.0,1.0
+2023-12-14,Leg Curls,5,8.0,1.0
+2023-12-14,Calf Raises,10,10.0,1.0
+2023-12-14,Calf Raises,10,10.0,1.0
+2023-12-14,Calf Raises,10,10.0,1.0
+2023-12-18,Bench Press,40,8.0,1.0
+2023-12-18,Bench Press,45,8.0,1.0
+2023-12-18,Bench Press,45,8.0,1.0
+2023-12-18,Bench Press,40,8.0,1.0
+2023-12-18,Seated Shoulder Press (Dumbbells),12,8.0,1.0
+2023-12-18,Pectoral Fly,27,8.0,1.0
+2023-12-18,Pectoral Fly,32,8.0,1.0
+2023-12-18,Pectoral Fly,32,8.0,1.0
+2023-12-18,Lateral Raises,5,8.0,1.0
+2023-12-18,Lateral Raises,6,8.0,1.0
+2023-12-18,Lateral Raises,7,8.0,1.0
+2023-12-18,Lateral Raises,7,8.0,1.0
+2023-12-18,Lateral Raises,6,12.0,1.0
+2023-12-19,Deadlifts,70,8.0,1.0
+2023-12-19,Deadlifts,70,8.0,1.0
+2023-12-19,Deadlifts,80,8.0,1.0
+2023-12-19,Deadlifts,80,8.0,1.0
+2023-12-19,Deadlifts,70,8.0,1.0
+2023-12-19,Seated Rows,32,8.0,1.0
+2023-12-19,Seated Rows,32,8.0,1.0
+2023-12-19,Seated Rows,32,8.0,1.0
+2023-12-19,Seated Cable Rows,35,8.0,1.0
+2023-12-19,Seated Cable Rows,35,8.0,1.0
+2023-12-19,Seated Cable Rows,35,8.0,1.0
+2023-12-19,Seated Cable Rows,35,8.0,1.0
+2023-12-19,Face Pulls,25,8.0,1.0
+2023-12-19,Face Pulls,75,12.0,1.0
+2023-12-19,Face Pulls,75,12.0,1.0
+2023-12-19,Bicep Curls,8,8.0,1.0
+2023-12-19,Bicep Curls,8,8.0,1.0
+2023-12-19,Bicep Curls,8,8.0,1.0
+2023-12-21,Squats,40,8.0,1.0
+2023-12-21,Squats,50,8.0,1.0
+2023-12-21,Squats,55,8.0,1.0
+2023-12-21,Squats,55,8.0,1.0
+2023-12-21,Leg Press (50Kg Already Loaded),30,8.0,1.0
+2023-12-21,Leg Press (50Kg Already Loaded),40,8.0,1.0
+2023-12-21,Leg Press (50Kg Already Loaded),40,8.0,1.0
+2023-12-21,At Jd,25,8.0,1.0
+2023-12-21,At Jd,40,8.0,1.0
+2023-12-21,At Jd,40,8.0,1.0
+2023-12-21,Romanian Deadlifts,40,8.0,1.0
+2023-12-21,Romanian Deadlifts,45,8.0,1.0
+2023-12-21,Romanian Deadlifts,50,8.0,1.0
+2023-12-21,Leg Extensions,23,8.0,1.0
+2023-12-21,Leg Extensions,30,8.0,1.0
+2023-12-21,Leg Extensions,36,8.0,1.0
+2023-12-21,Calf Raises,10,10.0,1.0
+2023-12-21,Calf Raises,10,10.0,1.0
+2023-12-21,Calf Raises,15,10.0,1.0
+2023-12-24,Bench Press,40,8.0,1.0
+2023-12-24,Bench Press,50,8.0,1.0
+2023-12-24,Bench Press,50,8.0,1.0
+2023-12-24,Dumbbell Incline Press,10,8.0,1.0
+2023-12-24,Dumbbell Incline Press,14,8.0,1.0
+2023-12-24,Dumbbell Incline Press,18,8.0,1.0
+2023-12-24,Seated Shoulder Press (Dumbbells),12,8.0,1.0
+2023-12-24,Seated Shoulder Press (Dumbbells),12,10.0,1.0
+2023-12-24,Seated Shoulder Press (Dumbbells),12,10.0,1.0
+2023-12-24,Lateral Raises,5,12.0,1.0
+2023-12-24,Lateral Raises,5,12.0,1.0
+2023-12-24,Lateral Raises,5,12.0,1.0
+2023-12-24,Lateral Raises,5,12.0,1.0
+2023-12-24,Tricep Pull Downs,20,8.0,1.0
+2023-12-24,Tricep Pull Downs,20,8.0,1.0
+2023-12-27,Bicep Curls,8,8.0,1.0
+2023-12-27,Bicep Curls,8,8.0,1.0
+2023-12-27,Deadlifts,70,8.0,1.0
+2023-12-27,Deadlifts,80,8.0,1.0
+2023-12-27,Deadlifts,90,8.0,1.0
+2023-12-27,Deadlifts,80,8.0,1.0
+2023-12-27,Seated Row,32,8.0,1.0
+2023-12-27,Seated Row,34,8.0,1.0
+2023-12-27,Seated Row,41,8.0,1.0
+2023-12-28,Squats,40,8.0,1.0
+2023-12-28,Squats,50,8.0,1.0
+2023-12-28,Squats,55,8.0,1.0
+2023-12-28,At Jd,25,8.0,1.0
+2023-12-28,At Jd,40,8.0,1.0
+2023-12-28,At Jd,40,8.0,1.0
+2023-12-28,At Jd,45,4.0,1.0
+2023-12-28,Leg Extensions,30,8.0,1.0
+2023-12-28,Leg Extensions,36,8.0,1.0
+2023-12-28,Leg Extensions,36,8.0,1.0
+2023-12-28,Calf Raises,25,,
+2023-12-30,Bench Press,40,10.0,1.0
+2023-12-30,Bench Press,50,7.0,1.0
+2023-12-30,Bench Press,50,4.0,1.0
+2023-12-30,Dumbbell Incline Press,14,8.0,1.0
+2023-12-30,Dumbbell Incline Press,18,3.0,1.0
+2023-12-30,Dumbbell Incline Press,14,10.0,1.0
+2023-12-30,Seated Shoulder Press (Dumbbells),12,10.0,1.0
+2023-12-30,Seated Shoulder Press (Dumbbells),12,10.0,1.0
+2023-12-30,Seated Shoulder Press (Dumbbells),12,10.0,1.0
+2024-01-08,Dumbbell Bench Press,10,8.0,1.0
+2024-01-08,Dumbbell Bench Press,15,8.0,1.0
+2024-01-08,Dumbbell Bench Press,18,8.0,1.0
+2024-01-08,Dumbbell Bench Press,20,8.0,1.0
+2024-01-08,Dumbbell Incline Press,15,8.0,1.0
+2024-01-08,Dumbbell Incline Press,15,8.0,1.0
+2024-01-08,Dumbbell Incline Press,15,8.0,1.0
+2024-01-08,Seated Shoulder Press,10,10.0,1.0
+2024-01-08,Seated Shoulder Press,10,10.0,1.0
+2024-01-08,Seated Shoulder Press,10,10.0,1.0
+2024-01-09,Deadlifts,70,8.0,1.0
+2024-01-09,Deadlifts,80,8.0,1.0
+2024-01-09,Deadlifts,80,8.0,1.0
+2024-01-09,Bicep Curls,8,4.0,1.0
+2024-01-09,Seated Cable Rows,25,8.0,1.0
+2024-01-09,Seated Cable Rows,25,8.0,1.0
+2024-01-09,Seated Cable Rows,25,8.0,1.0
+2024-01-10,Squats,40,10.0,1.0
+2024-01-10,Squats,50,8.0,1.0
+2024-01-10,Squats,55,8.0,1.0
+2024-01-10,Leg Curls,5,10.0,1.0
+2024-01-10,Leg Curls,5,10.0,1.0
+2024-01-10,Leg Curls,5,10.0,1.0
+2024-01-10,Romanian Deadlifts,40,8.0,1.0
+2024-01-10,Romanian Deadlifts,40,8.0,1.0
+2024-01-10,Romanian Deadlifts,40,8.0,1.0
+2024-01-10,Leg Press (50Kg Already Loaded),50,8.0,1.0
+2024-01-10,Leg Press (50Kg Already Loaded),50,8.0,1.0
+2024-01-10,Leg Press (50Kg Already Loaded),50,8.0,1.0
+2024-01-10,Romanian Deadlifts,40,8.0,1.0
+2024-01-10,Romanian Deadlifts,40,8.0,1.0
+2024-01-10,Romanian Deadlifts,40,8.0,1.0
+2024-01-10,Calf Raises,10,10.0,1.0
+2024-01-10,Calf Raises,10,10.0,1.0
+2024-01-10,Calf Raises,10,10.0,1.0
+2024-01-13,Bench Press,40,10.0,1.0
+2024-01-13,Bench Press,50,8.0,1.0
+2024-01-13,Bench Press,40,10.0,1.0
+2024-01-13,Bench Press,40,10.0,1.0
+2024-01-13,Seated Shoulder Press (Dumbbells),10,8.0,1.0
+2024-01-13,Seated Shoulder Press (Dumbbells),5,8.0,1.0
+2024-01-13,Seated Shoulder Press (Dumbbells),5,10.0,1.0
+2024-01-13,Lateral Raises,5,12.0,1.0
+2024-01-13,Lateral Raises,5,12.0,1.0
+2024-01-13,Lateral Raises,5,12.0,1.0
+2024-01-13,Lateral Raises,5,12.0,1.0
+2024-01-13,Tricep Pull Downs,25,8.0,1.0
+2024-01-13,Tricep Pull Downs,25,8.0,1.0
+2024-01-13,Tricep Pull Downs,25,8.0,1.0
+2024-01-13,Lateral Raises,5,10.0,1.0
+2024-01-13,Lateral Raises,5,10.0,1.0
+2024-01-13,Lateral Raises,5,10.0,1.0
+2024-01-14,Deadlifts,70,8.0,1.0
+2024-01-14,Deadlifts,80,8.0,1.0
+2024-01-14,Deadlifts,80,8.0,1.0
+2024-01-14,Bicep Curls,8,10.0,1.0
+2024-01-14,Bicep Curls,8,10.0,1.0
+2024-01-14,Bicep Curls,10,8.0,1.0
+2024-01-14,Bicep Curls,8,10.0,1.0
+2024-01-14,Seated Cable Rows,25,8.0,1.0
+2024-01-14,Seated Cable Rows,25,8.0,1.0
+2024-01-14,Seated Cable Rows,25,8.0,1.0
+2024-01-15,Squats,40,10.0,1.0
+2024-01-15,Squats,50,8.0,1.0
+2024-01-15,Squats,55,8.0,1.0
+2024-01-15,Squats,55,8.0,1.0
+2024-01-15,Leg Extensions,5,8.0,1.0
+2024-01-15,Leg Extensions,35,10.0,1.0
+2024-01-15,Leg Extensions,35,10.0,1.0
+2024-01-15,Leg Extensions,35,10.0,1.0
+2024-01-15,Leg Press,50,8.0,1.0
+2024-01-15,Leg Press,50,8.0,1.0
+2024-01-15,Leg Press,70,8.0,1.0
+2024-01-15,Romanian Deadlifts,40,8.0,1.0
+2024-01-15,Romanian Deadlifts,40,8.0,1.0
+2024-01-15,Romanian Deadlifts,50,8.0,1.0
+2024-01-18,Bench Press,40,10.0,1.0
+2024-01-18,Bench Press,50,7.0,1.0
+2024-01-18,Shoulder Press,12,8.0,1.0
+2024-01-18,Shoulder Press,12,10.0,1.0
+2024-01-18,Shoulder Press,12,10.0,1.0
+2024-01-18,Pectoral Fly,35,8.0,1.0
+2024-01-18,Lateral Raises,5,10.0,1.0
+2024-01-18,Lateral Raises,5,10.0,1.0
+2024-01-18,Lateral Raises,5,10.0,1.0
+2024-01-19,Deadlifts,70,8.0,1.0
+2024-01-19,Deadlifts,80,8.0,1.0
+2024-01-19,Deadlifts,80,8.0,1.0
+2024-01-19,Shrugs,14,8.0,1.0
+2024-01-19,Shrugs,18,10.0,1.0
+2024-01-19,Shrugs,18,10.0,1.0
+2024-01-20,Squats,40,10.0,1.0
+2024-01-20,Squats,50,8.0,1.0
+2024-01-20,Squats,60,8.0,1.0
+2024-01-20,Squats,60,8.0,1.0
+2024-01-20,Leg Curls,5,10.0,1.0
+2024-01-20,Leg Curls,30,10.0,1.0
+2024-01-20,Leg Curls,5,10.0,1.0
+2024-01-20,Leg Press (50Kg Already Loaded),50,8.0,1.0
+2024-01-20,Leg Press (50Kg Already Loaded),70,8.0,1.0
+2024-01-20,Leg Press (50Kg Already Loaded),70,8.0,1.0
+2024-01-20,Romanian Deadlifts,40,8.0,1.0
+2024-01-20,Romanian Deadlifts,50,8.0,1.0
+2024-01-20,Romanian Deadlifts,50,8.0,1.0
+2024-01-23,Bench Press,40,10.0,1.0
+2024-01-23,Bench Press,50,5.0,1.0
+2024-01-23,Bench Press,50,5.0,1.0
+2024-01-23,Shoulder Press,12,8.0,1.0
+2024-01-23,Shoulder Press,12,8.0,1.0
+2024-01-23,Shoulder Press,14,8.0,1.0
+2024-01-23,Shoulder Press,14,8.0,1.0
+2024-01-23,Lateral Raises,5,10.0,1.0
+2024-01-23,Lateral Raises,5,10.0,1.0
+2024-01-23,Lateral Raises,5,10.0,1.0
+2024-01-23,Pectoral Fly,35,8.0,1.0
+2024-01-23,Pectoral Fly,35,8.0,1.0
+2024-01-23,Pectoral Fly,35,8.0,1.0
+2024-01-23,Lateral Raises,5,10.0,1.0
+2024-01-23,Lateral Raises,5,12.0,1.0
+2024-01-23,Lateral Raises,5,12.0,1.0
+2024-01-23,Tricep Pull Downs,5,8.0,1.0
+2024-01-23,Tricep Pull Downs,15,6.0,1.0
+2024-01-23,Tricep Pull Downs,5,6.0,1.0
+2024-01-24,Deadlifts,70,8.0,1.0
+2024-01-24,Deadlifts,80,8.0,1.0
+2024-01-24,Deadlifts,80,8.0,1.0
+2024-01-24,Deadlifts,90,4.0,1.0
+2024-01-24,Seated Cable Rows,25,8.0,1.0
+2024-01-24,Seated Cable Rows,25,8.0,1.0
+2024-01-24,Seated Cable Rows,25,8.0,1.0
+2024-01-25,Squats,40,10.0,1.0
+2024-01-25,Squats,50,8.0,1.0
+2024-01-25,Squats,50,8.0,1.0
+2024-01-25,Seated Leg Curl,5,10.0,1.0
+2024-01-25,Seated Leg Curl,35,10.0,1.0
+2024-01-25,Seated Leg Curl,5,10.0,1.0
+2024-01-25,Leg Extensions,5,10.0,1.0
+2024-01-25,Leg Extensions,35,10.0,1.0
+2024-01-25,Leg Extensions,35,10.0,1.0
+2024-01-25,Leg Press,50,8.0,1.0
+2024-01-25,Leg Press,70,8.0,1.0
+2024-01-25,Leg Press,70,8.0,1.0
+2024-01-25,Seated Calf Raises,10,10.0,1.0
+2024-01-25,Seated Calf Raises,10,10.0,1.0
+2024-01-25,Seated Calf Raises,10,10.0,1.0
+2024-01-28,Incline Bench Press,14,8.0,1.0
+2024-01-28,Incline Bench Press,18,6.0,1.0
+2024-01-28,Incline Bench Press,14,12.0,1.0
+2024-01-28,Incline Bench Press,18,4.0,1.0
+2024-01-28,Shoulder Press,12,8.0,1.0
+2024-01-28,Shoulder Press,14,8.0,1.0
+2024-01-28,Shoulder Press,14,8.0,1.0
+2024-01-28,Pectoral Fly,35,8.0,1.0
+2024-01-28,Pectoral Fly,35,8.0,1.0
+2024-01-28,Pectoral Fly,35,8.0,1.0
+2024-01-28,Tricep Pull Downs,75,8.0,1.0
+2024-01-28,Tricep Pull Downs,75,8.0,1.0
+2024-01-28,Tricep Pull Downs,75,8.0,1.0
+2024-01-28,Lateral Raises,6,8.0,1.0
+2024-01-28,Lateral Raises,6,8.0,1.0
+2024-01-28,Lateral Raises,6,8.0,1.0
+2024-01-29,Lat Pulldown,15,8.0,1.0
+2024-01-29,Lat Pulldown,5,8.0,1.0
+2024-01-29,Lat Pulldown,25,8.0,1.0
+2024-01-29,Lat Pulldown,25,8.0,1.0
+2024-01-29,Bicep Curls,8,8.0,1.0
+2024-01-29,Bicep Curls,10,5.0,1.0
+2024-01-29,Bicep Curls,8,8.0,1.0
+2024-01-29,Bicep Curls,8,8.0,1.0
+2024-01-29,Seated Cable Rows,25,8.0,1.0
+2024-01-29,Seated Cable Rows,25,8.0,1.0
+2024-01-29,Seated Cable Rows,25,8.0,1.0
+2024-01-29,Face Pulls,25,8.0,1.0
+2024-01-29,Face Pulls,75,8.0,1.0
+2024-01-29,Face Pulls,75,8.0,1.0
+2024-01-30,Squats,40,10.0,1.0
+2024-01-30,Squats,50,8.0,1.0
+2024-01-30,Squats,50,10.0,1.0
+2024-01-30,Squats,50,8.0,1.0
+2024-01-30,Romanian Deadlifts,30,8.0,1.0
+2024-01-30,Romanian Deadlifts,50,8.0,1.0
+2024-01-30,Romanian Deadlifts,50,8.0,1.0
+2024-01-30,Leg Extensions,5,10.0,1.0
+2024-01-30,Leg Extensions,35,10.0,1.0
+2024-01-30,Leg Extensions,35,10.0,1.0
+2024-01-30,Leg Extensions,35,10.0,1.0
+2024-01-30,Seated Calf Raises,10,10.0,1.0
+2024-01-30,Seated Calf Raises,10,10.0,1.0
+2024-01-30,Seated Calf Raises,5,10.0,1.0
+2024-02-01,Bench Press,40,10.0,1.0
+2024-02-01,Bench Press,50,5.0,1.0
+2024-02-01,Bench Press,50,6.0,1.0
+2024-02-01,Incline Bench Press,14,8.0,1.0
+2024-02-01,Incline Bench Press,14,8.0,1.0
+2024-02-01,Incline Bench Press,14,8.0,1.0
+2024-02-01,Pectoral Fly'S,39,8.0,1.0
+2024-02-01,Pectoral Fly'S,45,10.0,1.0
+2024-02-01,Pectoral Fly'S,45,10.0,1.0
+2024-02-01,Tricep Pull Downs,5,8.0,1.0
+2024-02-01,Tricep Pull Downs,14,4.0,1.0
+2024-02-01,Tricep Pull Downs,5,8.0,1.0
+2024-02-02,Deadlifts,70,8.0,1.0
+2024-02-02,Deadlifts,80,8.0,1.0
+2024-02-02,Deadlifts,80,8.0,1.0
+2024-02-02,Deadlifts,80,8.0,1.0
+2024-02-02,Barbell Rows,30,8.0,1.0
+2024-02-02,Barbell Rows,30,10.0,1.0
+2024-02-02,Barbell Rows,30,10.0,1.0
+2024-02-02,Lat Pulldowns,32,10.0,1.0
+2024-02-02,Lat Pulldowns,32,10.0,1.0
+2024-02-02,Lat Pulldowns,32,10.0,1.0
+2024-02-02,Bicep Curls,8,10.0,1.0
+2024-02-04,Shoulder Press,12,8.0,1.0
+2024-02-04,Shoulder Press,12,8.0,1.0
+2024-02-04,Shoulder Press,14,8.0,1.0
+2024-02-04,Shoulder Press,14,8.0,1.0
+2024-02-04,Lateral Raises,6,12.0,1.0
+2024-02-04,Lateral Raises,6,12.0,1.0
+2024-02-04,Lateral Raises,6,12.0,1.0
+2024-02-04,Front Raises,4,10.0,1.0
+2024-02-04,Front Raises,6,10.0,1.0
+2024-02-04,Front Raises,5,10.0,1.0
+2024-02-04,Shrugs,18,8.0,1.0
+2024-02-04,Shrugs,18,10.0,1.0
+2024-02-04,Shrugs,18,10.0,1.0
+2024-02-05,Squats,40,10.0,1.0
+2024-02-05,Squats,50,8.0,1.0
+2024-02-05,Squats,50,10.0,1.0
+2024-02-05,Squats,60,4.0,1.0
+2024-02-05,Romanian Deadlifts,40,8.0,1.0
+2024-02-05,Romanian Deadlifts,40,8.0,1.0
+2024-02-05,Romanian Deadlifts,40,8.0,1.0
+2024-02-05,Leg Extensions,25,8.0,1.0
+2024-02-05,Leg Extensions,32,8.0,1.0
+2024-02-05,Leg Extensions,32,8.0,1.0
+2024-02-05,Leg Press,45,8.0,1.0
+2024-02-05,Leg Press,52,8.0,1.0
+2024-02-05,Leg Press,59,8.0,1.0
+2024-02-05,Calf Raises,10,10.0,1.0
+2024-02-05,Calf Raises,20,10.0,1.0
+2024-02-05,Calf Raises,20,10.0,1.0
+2024-02-05,Seated Calf Raises,10,10.0,1.0
+2024-02-05,Seated Calf Raises,10,10.0,1.0
+2024-02-05,Seated Calf Raises,5,10.0,1.0
+2024-02-06,Cable Rows,39,6.0,1.0
+2024-02-06,Cable Rows,32,8.0,1.0
+2024-02-06,Cable Rows,32,8.0,1.0
+2024-02-06,Face Pulls,7,12.0,1.0
+2024-02-06,Face Pulls,7,12.0,1.0
+2024-02-06,Face Pulls,7,12.0,1.0
+2024-02-06,Hammer Curls,8,8.0,1.0
+2024-02-06,Hammer Curls,8,8.0,1.0
+2024-02-06,Hammer Curls,8,8.0,1.0
+2024-02-08,Bench Press,40,10.0,1.0
+2024-02-08,Bench Press,50,8.0,1.0
+2024-02-08,Bench Press,50,8.0,1.0
+2024-02-08,Bench Press,40,10.0,1.0
+2024-02-08,Incline Bench Press,14,8.0,1.0
+2024-02-08,Incline Bench Press,14,10.0,1.0
+2024-02-08,Incline Bench Press,14,8.0,1.0
+2024-02-08,Pectoral Fly'S,39,8.0,1.0
+2024-02-08,Pectoral Fly'S,45,10.0,1.0
+2024-02-08,Pectoral Fly'S,45,10.0,1.0
+2024-02-08,Pectoral Fly'S,45,10.0,1.0
+2024-02-08,Tricep Pull Downs,5,8.0,1.0
+2024-02-08,Tricep Pull Downs,5,8.0,1.0
+2024-02-08,Tricep Pull Downs,5,8.0,1.0
+2024-02-09,Shoulder Press,16,8.0,1.0
+2024-02-09,Shoulder Press,14,8.0,1.0
+2024-02-09,Shoulder Press,14,8.0,1.0
+2024-02-09,Skull Crushers,20,8.0,1.0
+2024-02-09,Skull Crushers,20,8.0,1.0
+2024-02-09,Skull Crushers,20,8.0,1.0
+2024-02-10,Back Rows,20,8.0,1.0
+2024-02-10,Back Rows,20,8.0,1.0
+2024-02-10,Back Rows,25,8.0,1.0
+2024-02-10,Lat Pulldown Downs,20,8.0,1.0
+2024-02-10,Lat Pulldown Downs,30,8.0,1.0
+2024-02-10,Lat Pulldown Downs,30,8.0,1.0
+2024-02-12,Squats,40,10.0,1.0
+2024-02-12,Squats,50,8.0,1.0
+2024-02-12,Squats,60,8.0,1.0
+2024-02-12,Squats,70,6.0,1.0
+2024-02-12,Romanian Deadlifts,40,8.0,1.0
+2024-02-12,Romanian Deadlifts,50,8.0,1.0
+2024-02-12,Romanian Deadlifts,50,8.0,1.0
+2024-02-12,Leg Press (Jd Gym),100,8.0,1.0
+2024-02-12,Leg Press (Jd Gym),100,8.0,1.0
+2024-02-12,Leg Press (Jd Gym),100,8.0,1.0
+2024-02-12,Calf Raises,10,10.0,1.0
+2024-02-12,Calf Raises,20,10.0,1.0
+2024-02-12,Calf Raises,20,10.0,1.0
+2024-02-12,Leg Extensions (Jd Gym),5,8.0,1.0
+2024-02-12,Leg Extensions (Jd Gym),10,8.0,1.0
+2024-02-12,Leg Extensions (Jd Gym),10,8.0,1.0
+2024-02-13,Lat Pulldowns,30,8.0,1.0
+2024-02-13,Lat Pulldowns,40,5.0,1.0
+2024-02-13,Lat Pulldowns,30,8.0,1.0
+2024-02-13,Lat Pulldowns,20,5.0,1.0
+2024-02-13,Zoltman Curls,6,8.0,1.0
+2024-02-13,Zoltman Curls,6,8.0,1.0
+2024-02-13,Low Rows (Weights Each Side),20,8.0,1.0
+2024-02-13,Low Rows (Weights Each Side),20,8.0,1.0
+2024-02-13,Low Rows (Weights Each Side),15,14.0,1.0
+2024-02-13,Concentration Curls,15,6.0,1.0
+2024-02-13,Concentration Curls,15,6.0,1.0
+2024-02-14,Squats,40,10.0,1.0
+2024-02-14,Squats,60,8.0,1.0
+2024-02-14,Squats,70,6.0,1.0
+2024-02-14,Squats,60,8.0,1.0
+2024-02-14,Seated Calf Raises,20,10.0,1.0
+2024-02-14,Seated Calf Raises,20,10.0,1.0
+2024-02-14,Romanian Deadlifts,40,8.0,1.0
+2024-02-14,Romanian Deadlifts,40,8.0,1.0
+2024-02-17,Bench Press,40,10.0,1.0
+2024-02-17,Bench Press,50,8.0,1.0
+2024-02-17,Bench Press,50,8.0,1.0
+2024-02-17,Bench Press,40,8.0,1.0
+2024-02-17,Incline Bench Press,14,10.0,1.0
+2024-02-17,Incline Bench Press,14,10.0,1.0
+2024-02-17,Incline Bench Press,14,10.0,1.0
+2024-02-17,Pectoral Fly'S,27,8.0,1.0
+2024-02-17,Pectoral Fly'S,32,8.0,1.0
+2024-02-17,Pectoral Fly'S,32,8.0,1.0
+2024-02-20,Deadlifts,70,8.0,1.0
+2024-02-20,Deadlifts,80,8.0,1.0
+2024-02-20,Deadlifts,80,8.0,1.0
+2024-02-20,Barbell Rows,30,8.0,1.0
+2024-02-20,Barbell Rows,30,10.0,1.0
+2024-02-20,Barbell Rows,30,10.0,1.0
+2024-02-20,Bicep Curls,8,8.0,1.0
+2024-02-20,Bicep Curls,8,8.0,1.0
+2024-02-20,Bicep Curls,8,8.0,1.0
+2024-02-20,Bicep Curls,8,8.0,1.0
+2024-02-21,Shoulder Press,12,8.0,1.0
+2024-02-21,Shoulder Press,12,8.0,1.0
+2024-02-21,Shoulder Press,14,8.0,1.0
+2024-02-21,Shoulder Press,14,8.0,1.0
+2024-02-21,Cable Lateral Raises,4,8.0,1.0
+2024-02-21,Cable Lateral Raises,4,8.0,1.0
+2024-02-21,Cable Lateral Raises,4,8.0,1.0
+2024-02-21,Cable Front Raises,7,8.0,1.0
+2024-02-21,Cable Front Raises,7,8.0,1.0
+2024-02-21,Shrugs,18,8.0,1.0
+2024-02-21,Shrugs,18,10.0,1.0
+2024-02-21,Shrugs,18,10.0,1.0
+2024-02-22,Squats,40,10.0,1.0
+2024-02-22,Squats,50,10.0,1.0
+2024-02-22,Squats,60,8.0,1.0
+2024-02-22,Squats,60,8.0,1.0
+2024-02-22,Leg Press (Starting Resistance 75Kg),50,8.0,1.0
+2024-02-22,Leg Press (Starting Resistance 75Kg),50,10.0,1.0
+2024-02-22,Leg Press (Starting Resistance 75Kg),50,10.0,1.0
+2024-02-22,Calf Raises,20,10.0,1.0
+2024-02-22,Calf Raises,20,10.0,1.0
+2024-02-22,Calf Raises,20,10.0,1.0
+2024-02-22,Leg Extensions,25,8.0,1.0
+2024-02-22,Leg Extensions,32,8.0,1.0
+2024-02-23,Cable Rows,32,8.0,1.0
+2024-02-23,Cable Rows,32,8.0,1.0
+2024-02-23,Cable Rows,32,8.0,1.0
+2024-02-23,Face Pulls,7,12.0,1.0
+2024-02-23,Face Pulls,7,12.0,1.0
+2024-02-23,Face Pulls,7,12.0,1.0
+2024-02-23,Hammer Curls,8,8.0,1.0
+2024-02-23,Hammer Curls,8,8.0,1.0
+2024-02-23,Hammer Curls,8,8.0,1.0
+2024-02-27,Bench Press,40,10.0,1.0
+2024-02-27,Bench Press,50,8.0,1.0
+2024-02-27,Pectoral Fly'S,39,8.0,1.0
+2024-02-27,Pectoral Fly'S,45,10.0,1.0
+2024-02-27,Pectoral Fly'S,45,10.0,1.0
+2024-02-27,Pectoral Fly'S,45,10.0,1.0
+2024-03-01,Deadlifts,70,8.0,1.0
+2024-03-01,Deadlifts,80,8.0,1.0
+2024-03-01,Deadlifts,80,8.0,1.0
+2024-03-01,Barbell Rows,30,10.0,1.0
+2024-03-01,Barbell Rows,30,10.0,1.0
+2024-03-01,Barbell Rows,30,10.0,1.0
+2024-03-01,Lat Pulldowns,32,10.0,1.0
+2024-03-01,Lat Pulldowns,32,10.0,1.0
+2024-03-01,Lat Pulldowns,32,10.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,12,8.0,1.0
+2024-03-02,Shoulder Press,14,8.0,1.0
+2024-03-02,Shoulder Press,14,8.0,1.0
+2024-03-02,Cable Front Raises,4,10.0,1.0
+2024-03-02,Cable Front Raises,6,10.0,1.0
+2024-03-02,Cable Front Raises,4,10.0,1.0
+2024-03-02,Shrugs,20,12.0,1.0
+2024-03-02,Shrugs,20,12.0,1.0
+2024-03-02,Shrugs,20,12.0,1.0
+2024-03-03,Squats,40,12.0,1.0
+2024-03-03,Squats,60,8.0,1.0
+2024-03-03,Squats,60,8.0,1.0
+2024-03-03,Squats,60,8.0,1.0
+2024-03-03,Leg Press (Starting Resistance 75Kg),50,8.0,1.0
+2024-03-03,Leg Press (Starting Resistance 75Kg),50,10.0,1.0
+2024-03-03,Leg Press (Starting Resistance 75Kg),50,10.0,1.0
+2024-03-03,Romanian Deadlifts,40,8.0,1.0
+2024-03-03,Romanian Deadlifts,40,8.0,1.0
+2024-03-03,Calf Raises,20,10.0,1.0
+2024-03-03,Calf Raises,20,10.0,1.0
+2024-03-03,Calf Raises,20,10.0,1.0
+2024-03-05,Rows,27,8.0,1.0
+2024-03-05,Rows,27,8.0,1.0
+2024-03-05,Rows,27,8.0,1.0
+2024-03-05,Cable Rows,32,8.0,1.0
+2024-03-05,Cable Rows,32,8.0,1.0
+2024-03-05,Cable Rows,32,8.0,1.0
+2024-03-05,Face Pulls,7,12.0,1.0
+2024-03-05,Face Pulls,7,12.0,1.0
+2024-03-05,Face Pulls,7,12.0,1.0
+2024-03-05,Hammer Curls,8,8.0,1.0
+2024-03-05,Hammer Curls,8,8.0,1.0
+2024-03-05,Hammer Curls,8,8.0,1.0
+2024-03-07,Bench Press,40,10.0,1.0
+2024-03-07,Bench Press,50,8.0,1.0
+2024-03-07,Bench Press,50,8.0,1.0
+2024-03-07,Bench Press,40,10.0,1.0
+2024-03-07,Incline Bench Press,14,8.0,1.0
+2024-03-07,Incline Bench Press,14,10.0,1.0
+2024-03-07,Incline Bench Press,14,10.0,1.0
+2024-03-07,Pectoral Fly'S,39,8.0,1.0
+2024-03-07,Pectoral Fly'S,45,10.0,1.0
+2024-03-07,Pectoral Fly'S,45,10.0,1.0
+2024-03-07,Pectoral Fly'S,45,10.0,1.0
+2024-03-07,Tricep Pull Downs,5,8.0,1.0
+2024-03-07,Tricep Pull Downs,5,8.0,1.0
+2024-03-07,Tricep Pull Downs,2,8.0,1.0
+2024-03-08,Deadlifts,70,8.0,1.0
+2024-03-08,Deadlifts,80,8.0,1.0
+2024-03-08,Deadlifts,80,8.0,1.0
+2024-03-08,Barbell Rows,30,10.0,1.0
+2024-03-08,Barbell Rows,35,10.0,1.0
+2024-03-08,Barbell Rows,35,10.0,1.0
+2024-03-08,Lat Pulldowns,32,10.0,1.0
+2024-03-08,Lat Pulldowns,32,10.0,1.0
+2024-03-08,Lat Pulldowns,32,10.0,1.0
+2024-03-08,Bicep Curls,8,8.0,1.0
+2024-03-08,Bicep Curls,8,8.0,1.0
+2024-03-08,Bicep Curls,8,8.0,1.0
+2024-03-08,Bicep Curls,8,8.0,1.0
+2024-03-09,Shoulder Press,12,8.0,1.0
+2024-03-09,Shoulder Press,14,8.0,1.0
+2024-03-09,Shoulder Press,14,10.0,1.0
+2024-03-09,Cable Lateral Raises,6,12.0,1.0
+2024-03-09,Cable Lateral Raises,6,14.0,1.0
+2024-03-09,Cable Lateral Raises,6,14.0,1.0
+2024-03-09,Cable Front Raises,4,10.0,1.0
+2024-03-09,Cable Front Raises,4,10.0,1.0
+2024-03-09,Cable Front Raises,6,10.0,1.0
+2024-03-09,Shrugs,20,12.0,1.0
+2024-03-09,Shrugs,20,12.0,1.0
+2024-03-09,Shrugs,20,15.0,1.0
+2024-03-13,Squats,40,10.0,1.0
+2024-03-13,Squats,50,8.0,1.0
+2024-03-13,Squats,60,8.0,1.0
+2024-03-13,Squats,60,8.0,1.0
+2024-03-13,Leg Press,45,8.0,1.0
+2024-03-13,Leg Press,52,8.0,1.0
+2024-03-13,Leg Press,59,8.0,1.0
+2024-03-13,Calf Raises,40,10.0,1.0
+2024-03-13,Calf Raises,40,10.0,1.0
+2024-03-13,Calf Raises,40,10.0,1.0
+2024-03-14,Bench Press,40,10.0,1.0
+2024-03-14,Bench Press,50,8.0,1.0
+2024-03-14,Bench Press,50,8.0,1.0
+2024-03-14,Bench Press,50,6.0,1.0
+2024-03-14,Incline Bench Press,14,10.0,1.0
+2024-03-14,Incline Bench Press,14,10.0,1.0
+2024-03-14,Incline Bench Press,14,10.0,1.0
+2024-03-14,Tricep Pull Downs,5,8.0,1.0
+2024-03-15,Cable Rows,39,8.0,1.0
+2024-03-15,Cable Rows,45,8.0,1.0
+2024-03-15,Cable Rows,39,8.0,1.0
+2024-03-15,Rear Delt Fly,32,8.0,1.0
+2024-03-15,Rear Delt Fly,32,8.0,1.0
+2024-03-15,Rear Delt Fly,32,8.0,1.0
+2024-03-15,Bicep Curls Cable,7,8.0,1.0
+2024-03-15,Bicep Curls Cable,7,8.0,1.0
+2024-03-15,Bicep Curls Cable,7,8.0,1.0
+2024-03-15,Bicep Curls Cable,7,8.0,1.0
+2024-03-19,Shoulder Press,12,8.0,1.0
+2024-03-19,Shoulder Press,14,10.0,1.0
+2024-03-19,Shoulder Press,14,10.0,1.0
+2024-03-19,Shoulder Press,14,10.0,1.0
+2024-03-19,Lateral Raises,6,12.0,1.0
+2024-03-19,Lateral Raises,6,15.0,1.0
+2024-03-19,Lateral Raises,6,15.0,1.0
+2024-03-19,Front Raises,4,10.0,1.0
+2024-03-19,Front Raises,4,10.0,1.0
+2024-03-19,Front Raises,5,10.0,1.0
+2024-03-20,Squats,40,10.0,1.0
+2024-03-20,Squats,60,8.0,1.0
+2024-03-20,Squats,60,8.0,1.0
+2024-03-20,Squats,60,8.0,1.0
+2024-03-20,Romanian Deadlifts,40,8.0,1.0
+2024-03-20,Romanian Deadlifts,40,8.0,1.0
+2024-03-20,Romanian Deadlifts,40,8.0,1.0
+2024-03-20,Calf Raises,30,15.0,1.0
+2024-03-20,Calf Raises,30,15.0,1.0
+2024-03-20,Calf Raises,30,15.0,1.0
+2024-03-21,Vertical Chest Press,15,8.0,1.0
+2024-03-21,Vertical Chest Press,25,8.0,1.0
+2024-03-21,Vertical Chest Press,25,8.0,1.0
+2024-03-21,Incline Bench Press,14,8.0,1.0
+2024-03-21,Incline Bench Press,16,10.0,1.0
+2024-03-21,Incline Bench Press,16,10.0,1.0
+2024-03-21,Pectoral Fly'S,45,10.0,1.0
+2024-03-21,Pectoral Fly'S,52,10.0,1.0
+2024-03-21,Pectoral Fly'S,52,8.0,1.0
+2024-03-21,Seated Tricep Press,1,10.0,1.0
+2024-03-21,Seated Tricep Press,2,10.0,1.0
+2024-03-21,Seated Tricep Press,27,8.0,1.0
+2024-03-26,Deadlifts,70,8.0,1.0
+2024-03-26,Deadlifts,80,8.0,1.0
+2024-03-26,Deadlifts,80,8.0,1.0
+2024-03-26,Deadlifts,80,8.0,1.0
+2024-03-26,Cable Rows,39,8.0,1.0
+2024-03-26,Cable Rows,39,8.0,1.0
+2024-03-26,Cable Rows,32,8.0,1.0
+2024-03-26,Rear Delt Fly,32,8.0,1.0
+2024-03-26,Rear Delt Fly,32,8.0,1.0
+2024-03-26,Rear Delt Fly,32,8.0,1.0
+2024-03-26,Bicep Curls,8,8.0,1.0
+2024-03-26,Bicep Curls,8,8.0,1.0
+2024-03-26,Bicep Curls,10,8.0,1.0
+2024-03-26,Bicep Curls,8,8.0,1.0
+2024-03-26,Lat Pulldown,32,8.0,1.0
+2024-03-26,Lat Pulldown,39,8.0,1.0
+2024-03-26,Lat Pulldown,3,8.0,1.0
+2024-03-26,Lat Pulldown,3,8.0,1.0
+2024-03-27,Shoulder Press,10,8.0,1.0
+2024-03-27,Shoulder Press,14,10.0,1.0
+2024-03-27,Shoulder Press,14,10.0,1.0
+2024-03-27,Shoulder Press,14,10.0,1.0
+2024-03-27,Lateral Raises,6,15.0,1.0
+2024-03-27,Lateral Raises,6,15.0,1.0
+2024-03-27,Front Raises,4,12.0,1.0
+2024-03-27,Front Raises,4,12.0,1.0
+2024-03-27,Front Raises,5,10.0,1.0
+2024-03-27,Rear Delt Fly,32,8.0,1.0
+2024-03-27,Rear Delt Fly,32,8.0,1.0
+2024-03-27,Rear Delt Fly,32,8.0,1.0
+2024-03-30,Low Rows Machine,25,8.0,1.0
+2024-03-30,Low Rows Machine,25,8.0,1.0
+2024-03-30,Lat Pulldown,40,8.0,1.0
+2024-03-30,Lat Pulldown,45,8.0,1.0
+2024-03-30,Lat Pulldown,45,8.0,1.0
+2024-03-30,Bicep Machine,27,8.0,1.0
+2024-03-30,Bicep Machine,27,8.0,1.0
+2024-03-30,Rear Delts With Dumbbells,4,,
+2024-04-06,Bench Press,40,10.0,1.0
+2024-04-06,Bench Press,50,8.0,1.0
+2024-04-06,Bench Press,50,8.0,1.0
+2024-04-06,Bench Press,50,6.0,1.0
+2024-04-06,Incline Bench Press,14,10.0,1.0
+2024-04-06,Incline Bench Press,14,10.0,1.0
+2024-04-06,Incline Bench Press,14,10.0,1.0
+2024-04-06,Tricep Pull Downs,5,8.0,1.0
+2023-04-07,Lat Pulldown,35,8.0,1.0
+2023-04-07,Lat Pulldown,45,8.0,1.0
+2023-04-07,Lat Pulldown,45,8.0,1.0
+2023-04-07,Cable Rows,40,8.0,1.0
+2023-04-07,Cable Rows,40,8.0,1.0
+2023-04-07,Cable Rows,40,8.0,1.0
+2023-04-07,Bicep Curls,8,8.0,1.0
+2023-04-07,Bicep Curls,10,8.0,1.0
+2023-04-07,Bicep Curls,10,8.0,1.0
+2023-04-07,Bicep Curls,8,8.0,1.0
+2023-04-07,Hammer Curls,8,8.0,1.0
+2023-04-07,Hammer Curls,8,8.0,1.0
+2023-04-07,Hammer Curls,8,8.0,1.0
+2024-04-15,Squats,40,10.0,1.0
+2024-04-15,Squats,60,8.0,1.0
+2024-04-15,Squats,60,8.0,1.0
+2024-04-15,Squats,60,8.0,1.0
+2024-04-15,Romanian Deadlifts,40,8.0,1.0
+2024-04-15,Romanian Deadlifts,40,8.0,1.0
+2024-04-15,Romanian Deadlifts,40,8.0,1.0
+2024-04-15,Calf Raises,40,15.0,1.0
+2024-04-15,Calf Raises,40,15.0,1.0
+2024-04-15,Calf Raises,40,15.0,1.0
+2024-04-15,Leg Extensions,25,8.0,1.0
+2024-04-15,Leg Extensions,25,8.0,1.0
+2024-04-15,Leg Extensions,25,8.0,1.0
+2024-04-16,Bench Press,40,10.0,1.0
+2024-04-16,Bench Press,50,4.0,1.0
+2024-04-16,Incline Bench Press,14,8.0,1.0
+2024-04-16,Incline Bench Press,18,8.0,1.0
+2024-04-16,Incline Bench Press,18,8.0,1.0
+2024-04-16,Tricep Pull Downs,5,10.0,1.0
+2024-04-16,Tricep Pull Downs,5,10.0,1.0
+2024-04-16,Tricep Pull Downs,5,10.0,1.0
+2024-04-16,Pectoral Fly'S,39,8.0,1.0
+2024-04-16,Pectoral Fly'S,45,10.0,1.0
+2024-04-16,Pectoral Fly'S,45,10.0,1.0
+2024-04-18,Lat Pulldown,39,8.0,1.0
+2024-04-18,Lat Pulldown,45,8.0,1.0
+2024-04-18,Lat Pulldown,4,8.0,1.0
+2024-04-18,Lat Pulldown,39,8.0,1.0
+2024-04-18,Bicep Curls,8,8.0,1.0
+2024-04-18,Bicep Curls,10,8.0,1.0
+2024-04-18,Bicep Curls,8,8.0,1.0
+2024-04-18,Bicep Curls,8,8.0,1.0
+2024-04-18,Hammer Curls,8,8.0,1.0
+2024-04-18,Hammer Curls,8,8.0,1.0
+2024-04-18,Hammer Curls,8,8.0,1.0
+2024-04-18,Cable Rows,32,8.0,1.0
+2024-04-18,Cable Rows,39,8.0,1.0
+2024-04-18,Cable Rows,39,8.0,1.0
+2024-04-22,Shoulder Press,10,8.0,1.0
+2024-04-22,Shoulder Press,14,10.0,1.0
+2024-04-22,Shoulder Press,14,10.0,1.0
+2024-04-22,Shoulder Press,14,10.0,1.0
+2024-04-22,Lateral Raises,6,15.0,1.0
+2024-04-22,Lateral Raises,6,15.0,1.0
+2024-04-22,Lateral Raises,6,15.0,1.0
+2024-04-22,Front Raises,4,12.0,1.0
+2024-04-22,Front Raises,4,12.0,1.0
+2024-04-22,Front Raises,5,12.0,1.0
+2024-04-22,Rear Delt Fly,32,8.0,1.0
+2024-04-22,Rear Delt Fly,32,8.0,1.0
+2024-04-22,Rear Delt Fly,32,8.0,1.0
+2024-04-24,Squats,40,10.0,1.0
+2024-04-24,Squats,60,8.0,1.0
+2024-04-24,Squats,65,8.0,1.0
+2024-04-24,Squats,65,8.0,1.0
+2024-04-24,Calf Raises,40,15.0,1.0
+2024-04-24,Calf Raises,40,15.0,1.0
+2024-04-24,Calf Raises,40,15.0,1.0
+2024-04-24,Leg Extensions,25,8.0,1.0
+2024-04-24,Leg Extensions,25,8.0,1.0
+2024-04-24,Leg Extensions,32,8.0,1.0
+2024-04-24,Leg Extensions,32,8.0,1.0
+2024-04-25,Bench Press,40,10.0,1.0
+2024-04-25,Bench Press,50,8.0,1.0
+2024-04-25,Bench Press,50,8.0,1.0
+2024-04-25,Bench Press,55,4.0,1.0
+2024-04-25,Incline Bench Press,18,8.0,1.0
+2024-04-25,Incline Bench Press,18,8.0,1.0
+2024-04-25,Incline Bench Press,18,8.0,1.0
+2024-04-25,Tricep Pull Downs,5,10.0,1.0
+2024-04-25,Tricep Pull Downs,5,10.0,1.0
+2024-04-25,Tricep Pull Downs,5,10.0,1.0
+2024-04-25,Pectoral Fly'S,39,8.0,1.0
+2024-04-25,Pectoral Fly'S,45,8.0,1.0
+2024-04-25,Pectoral Fly'S,45,8.0,1.0
+2024-04-25,Pectoral Fly'S,45,8.0,1.0
+2024-04-25,Dips,10,,
+2024-04-29,Bicep Curls,8,8.0,1.0
+2024-04-29,Bicep Curls,10,8.0,1.0
+2024-04-29,Concentration Curl (Bar),20,7.0,1.0
+2024-04-29,Concentration Curl (Bar),20,5.0,1.0
+2024-04-29,Lat Pulldown,39,8.0,1.0
+2024-04-29,Lat Pulldown,39,8.0,1.0
+2024-04-29,Lat Pulldown,39,8.0,1.0
+2024-04-29,Lat Pulldown,32,10.0,1.0
+2024-04-29,Cable Rows,32,8.0,1.0
+2024-04-29,Cable Rows,39,8.0,1.0
+2024-04-29,Cable Rows,39,8.0,1.0
+2024-04-29,Cable Rows,39,8.0,1.0
+2024-04-29,Hammer Curls,8,8.0,1.0
+2024-04-29,Hammer Curls,8,8.0,1.0
+2024-04-29,Hammer Curls,8,8.0,1.0
+2024-05-01,Shoulder Press,12,8.0,1.0
+2024-05-01,Shoulder Press,14,10.0,1.0
+2024-05-01,Shoulder Press,14,10.0,1.0
+2024-05-01,Shoulder Press,14,10.0,1.0
+2024-05-01,Lateral Raises,6,15.0,1.0
+2024-05-01,Lateral Raises,6,15.0,1.0
+2024-05-01,Lateral Raises,6,15.0,1.0
+2024-05-01,Rear Delt Fly,32,8.0,1.0
+2024-05-01,Rear Delt Fly,32,8.0,1.0
+2024-05-01,Rear Delt Fly,32,8.0,1.0
+2024-05-03,Squats,40,10.0,1.0
+2024-05-03,Squats,60,8.0,1.0
+2024-05-03,Squats,70,8.0,1.0
+2024-05-03,Squats,60,8.0,1.0
+2024-05-03,Leg Extensions,25,8.0,1.0
+2024-05-03,Leg Extensions,25,8.0,1.0
+2024-05-03,Leg Extensions,32,8.0,1.0
+2024-05-03,Leg Extensions,32,8.0,1.0
+2024-05-03,Seated Calf Raises,20,10.0,1.0
+2024-05-03,Seated Calf Raises,20,10.0,1.0
+2024-05-04,Bench Press,40,10.0,1.0
+2024-05-04,Bench Press,50,8.0,1.0
+2024-05-04,Bench Press,60,3.0,1.0
+2024-05-04,Bench Press,60,2.0,1.0
+2024-05-04,Bench Press,50,8.0,1.0
+2024-05-04,Incline Bench Press,22,5.0,1.0
+2024-05-04,Incline Bench Press,22,418.0,1.0
+2024-05-06,Rows,25,8.0,1.0
+2024-05-06,Rows,30,8.0,1.0
+2024-05-06,Rows,30,8.0,1.0
+2024-05-06,Rows,40,6.0,1.0
+2024-05-06,Low Row,10,8.0,1.0
+2024-05-06,Low Row,10,8.0,1.0
+2024-05-06,Low Row,10,8.0,1.0
+2024-05-06,Cable Rows,40,8.0,1.0
+2024-05-06,Cable Rows,40,8.0,1.0
+2024-05-06,Cable Rows,50,6.0,1.0
+2024-05-06,Single Arm Tricep Pull Downs,25,8.0,1.0
+2024-05-06,Single Arm Tricep Pull Downs,25,8.0,1.0
+2024-05-06,Single Arm Tricep Pull Downs,25,8.0,1.0
+2024-05-06,Twisty Tricep Pull Downs,25,8.0,1.0
+2024-05-06,Twisty Tricep Pull Downs,25,8.0,1.0
+2024-05-06,Twisty Tricep Pull Downs,25,8.0,1.0
+2024-05-09,Shoulder Press,10,8.0,1.0
+2024-05-09,Shoulder Press,14,10.0,1.0
+2024-05-09,Shoulder Press,14,10.0,1.0
+2024-05-09,Shoulder Press,14,10.0,1.0
+2024-05-09,Lateral Raises,6,15.0,1.0
+2024-05-09,Lateral Raises,6,15.0,1.0
+2024-05-09,Lateral Raises,6,15.0,1.0
+2024-05-10,Squats,40,10.0,1.0
+2024-05-10,Squats,60,8.0,1.0
+2024-05-10,Squats,60,8.0,1.0
+2024-05-10,Squats,65,8.0,1.0
+2024-05-10,Romanian Deadlifts,40,8.0,1.0
+2024-05-10,Romanian Deadlifts,40,8.0,1.0
+2024-05-10,Romanian Deadlifts,40,8.0,1.0
+2024-05-10,Leg Press,52,8.0,1.0
+2024-05-10,Leg Press,59,8.0,1.0
+2024-05-10,Leg Press,66,8.0,1.0
+2024-05-10,Leg Press,73,8.0,1.0
+2024-05-10,Standing Calf Raises,40,15.0,1.0
+2024-05-10,Standing Calf Raises,40,15.0,1.0
+2024-05-10,Standing Calf Raises,40,15.0,1.0
+2024-05-12,Bench Press,40,10.0,1.0
+2024-05-12,Bench Press,50,8.0,1.0
+2024-05-12,Bench Press,55,8.0,1.0
+2024-05-12,Bench Press,55,8.0,1.0
+2024-05-12,Tricep Pull Downs,5,10.0,1.0
+2024-05-12,Tricep Pull Downs,5,12.0,1.0
+2024-05-12,Tricep Pull Downs,5,12.0,1.0
+2024-05-12,Tricep Pull Downs,7,6.0,1.0
+2024-05-12,Incline Bench Press,18,8.0,1.0
+2024-05-12,Incline Bench Press,18,8.0,1.0
+2024-05-12,Incline Bench Press,18,8.0,1.0
+2024-05-12,Pectoral Fly'S,45,10.0,1.0
+2024-05-12,Pectoral Fly'S,45,10.0,1.0
+2024-05-12,Pectoral Fly'S,45,10.0,1.0
+2024-05-14,Deadlifts,70,8.0,1.0
+2024-05-14,Deadlifts,80,8.0,1.0
+2024-05-14,Deadlifts,80,8.0,1.0
+2024-05-14,Lat Pulldown,32,8.0,1.0
+2024-05-14,Lat Pulldown,39,8.0,1.0
+2024-05-14,Lat Pulldown,39,8.0,1.0
+2024-05-14,Lat Pulldown,39,8.0,1.0
+2024-05-14,Cable Rows,32,8.0,1.0
+2024-05-14,Cable Rows,39,8.0,1.0
+2024-05-14,Cable Rows,45,8.0,1.0
+2024-05-14,Cable Rows,39,8.0,1.0
+2024-05-14,Rear Delt Fly,32,8.0,1.0
+2024-05-14,Rear Delt Fly,32,8.0,1.0
+2024-05-14,Rear Delt Fly,32,8.0,1.0
+2024-05-14,Bicep Curls,8,8.0,1.0
+2024-05-14,Bicep Curls,10,8.0,1.0
+2024-05-14,Bicep Curls,10,8.0,1.0
+2024-05-14,Bicep Curls,8,8.0,1.0
+2024-05-15,Shoulder Press,12,8.0,1.0
+2024-05-15,Shoulder Press,14,10.0,1.0
+2024-05-15,Shoulder Press,16,8.0,1.0
+2024-05-15,Shoulder Press,16,8.0,1.0
+2024-05-15,Lateral Raises,6,15.0,1.0
+2024-05-15,Lateral Raises,6,15.0,1.0
+2024-05-15,Lateral Raises,6,15.0,1.0
+2024-05-19,Squats,40,10.0,1.0
+2024-05-19,Squats,60,8.0,1.0
+2024-05-19,Squats,60,8.0,1.0
+2024-05-19,Squats,65,8.0,1.0
+2024-05-19,Romanian Deadlifts,50,8.0,1.0
+2024-05-19,Romanian Deadlifts,50,8.0,1.0
+2024-05-19,Romanian Deadlifts,50,8.0,1.0
+2024-05-19,Leg Press,59,8.0,1.0
+2024-05-19,Leg Press,66,8.0,1.0
+2024-05-19,Leg Press,73,8.0,1.0
+2024-05-21,Bench Press,40,10.0,1.0
+2024-05-21,Bench Press,50,8.0,1.0
+2024-05-21,Bench Press,55,6.0,1.0
+2024-05-21,Bench Press,55,3.0,1.0
+2024-05-21,Incline Bench Press,18,8.0,1.0
+2024-05-21,Incline Bench Press,18,8.0,1.0
+2024-05-21,Incline Bench Press,18,8.0,1.0
+2024-05-21,Tricep Pull Downs,5,10.0,1.0
+2024-05-21,Tricep Pull Downs,5,12.0,1.0
+2024-05-21,Tricep Pull Downs,5,10.0,1.0
+2024-05-21,Tricep Pull Downs,5,6.0,1.0
+2024-05-21,Pectoral Fly'S,45,10.0,1.0
+2024-05-21,Pectoral Fly'S,45,10.0,1.0
+2024-05-21,Pectoral Fly'S,52,8.0,1.0
+2024-05-22,Deadlifts,70,8.0,1.0
+2024-05-22,Deadlifts,80,8.0,1.0
+2024-05-22,Deadlifts,80,8.0,1.0
+2024-05-22,Lat Pulldown,32,8.0,1.0
+2024-05-22,Lat Pulldown,39,8.0,1.0
+2024-05-22,Lat Pulldown,39,8.0,1.0
+2024-05-22,Lat Pulldown,39,8.0,1.0
+2024-05-22,Cable Rows (Machine Broken),32,8.0,1.0
+2024-05-22,Cable Rows (Machine Broken),39,8.0,1.0
+2024-05-22,Cable Rows (Machine Broken),45,8.0,1.0
+2024-05-22,Cable Rows (Machine Broken),39,8.0,1.0
+2024-05-22,Machine Row,27,8.0,1.0
+2024-05-22,Machine Row,27,8.0,1.0
+2024-05-22,Machine Row,32,8.0,1.0
+2024-05-22,Rear Delt Fly,32,8.0,1.0
+2024-05-22,Rear Delt Fly,32,8.0,1.0
+2024-05-22,Rear Delt Fly,32,8.0,1.0
+2024-05-22,Bicep Curls,8,8.0,1.0
+2024-05-22,Bicep Curls,10,8.0,1.0
+2024-05-22,Bicep Curls,10,8.0,1.0
+2024-05-22,Bicep Curls,8,8.0,1.0
+2024-05-26,Shoulder Press,12,8.0,1.0
+2024-05-26,Shoulder Press,16,8.0,1.0
+2024-05-26,Shoulder Press,16,8.0,1.0
+2024-05-26,Shoulder Press,16,8.0,1.0
+2024-05-26,Lateral Raises,6,15.0,1.0
+2024-05-26,Lateral Raises,6,15.0,1.0
+2024-05-26,Lateral Raises,6,15.0,1.0
+2024-05-26,Lateral Raises,6,15.0,1.0
+2024-05-30,Squats,40,10.0,1.0
+2024-05-30,Squats,60,8.0,1.0
+2024-05-30,Squats,60,8.0,1.0
+2024-05-30,Squats,65,8.0,1.0
+2024-05-30,Leg Press,59,8.0,1.0
+2024-05-30,Leg Press,66,8.0,1.0
+2024-05-30,Leg Press,73,8.0,1.0
+2024-05-30,Leg Extensions,25,8.0,1.0
+2024-05-30,Leg Extensions,32,8.0,1.0
+2024-05-30,Leg Extensions,39,8.0,1.0
+2024-05-30,Leg Extensions,32,8.0,1.0
+2024-05-30,Standing Calf Raises,40,15.0,1.0
+2024-05-30,Standing Calf Raises,40,15.0,1.0
+2024-05-30,Standing Calf Raises,40,15.0,1.0
+2024-05-31,Bench Press,40,10.0,1.0
+2024-05-31,Bench Press,50,8.0,1.0
+2024-05-31,Bench Press,55,6.0,1.0
+2024-05-31,Bench Press,55,6.0,1.0
+2024-05-31,Incline Bench Press,18,8.0,1.0
+2024-05-31,Incline Bench Press,18,10.0,1.0
+2024-05-31,Incline Bench Press,20,8.0,1.0
+2024-05-31,Tricep Pull Downs,5,10.0,1.0
+2024-05-31,Tricep Pull Downs,5,12.0,1.0
+2024-05-31,Tricep Pull Downs,5,10.0,1.0
+2024-05-31,Tricep Pull Downs,5,6.0,1.0
+2024-05-31,Pectoral Fly'S,45,10.0,1.0
+2024-05-31,Pectoral Fly'S,52,8.0,1.0
+2024-05-31,Pectoral Fly'S,52,8.0,1.0
+2024-05-31,Pectoral Fly'S,52,8.0,1.0
+2024-06-04,Deadlifts,70,8.0,1.0
+2024-06-04,Deadlifts,80,8.0,1.0
+2024-06-04,Deadlifts,80,8.0,1.0
+2024-06-04,Deadlifts,90,3.0,1.0
+2024-06-04,Lat Pulldown,32,8.0,1.0
+2024-06-04,Lat Pulldown,39,10.0,1.0
+2024-06-04,Lat Pulldown,39,8.0,1.0
+2024-06-04,Lat Pulldown,39,8.0,1.0
+2024-06-04,Cable Rows,32,8.0,1.0
+2024-06-04,Cable Rows,39,8.0,1.0
+2024-06-04,Cable Rows,45,8.0,1.0
+2024-06-04,Cable Rows,39,8.0,1.0
+2024-06-04,Rear Delt Fly,32,8.0,1.0
+2024-06-04,Rear Delt Fly,32,8.0,1.0
+2024-06-04,Rear Delt Fly,32,8.0,1.0
+2024-06-04,Bicep Curls,6,8.0,1.0
+2024-06-04,Bicep Curls,10,8.0,1.0
+2024-06-04,Bicep Curls,10,8.0,1.0
+2024-06-05,Shoulder Press,12,8.0,1.0
+2024-06-05,Shoulder Press,18,8.0,1.0
+2024-06-05,Shoulder Press,18,7.0,1.0
+2024-06-05,Shoulder Press,16,8.0,1.0
+2024-06-05,Lateral Raises,6,15.0,1.0
+2024-06-05,Lateral Raises,8,15.0,1.0
+2024-06-05,Lateral Raises,8,15.0,1.0
+2024-06-05,L Sits,5,,
+2024-06-07,Squats,40,10.0,1.0
+2024-06-07,Squats,60,8.0,1.0
+2024-06-07,Squats,65,8.0,1.0
+2024-06-07,Squats,65,8.0,1.0
+2024-06-07,Romanian Deadlifts,50,8.0,1.0
+2024-06-07,Romanian Deadlifts,50,8.0,1.0
+2024-06-07,Romanian Deadlifts,50,8.0,1.0
+2024-06-07,Leg Press,59,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Press,73,8.0,1.0
+2024-06-07,Leg Extensions,25,8.0,1.0
+2024-06-07,Leg Extensions,32,8.0,1.0
+2024-06-07,Leg Extensions,32,8.0,1.0
+2024-06-07,Leg Extensions,32,8.0,1.0
+2024-06-07,Standing Calf Raises,40,15.0,1.0
+2024-06-07,Standing Calf Raises,40,15.0,1.0
+2024-06-07,Standing Calf Raises,40,15.0,1.0
+2024-06-08,Dumbbell Bench Press,20,10.0,1.0
+2024-06-08,Dumbbell Bench Press,20,10.0,1.0
+2024-06-08,Dumbbell Bench Press,22,8.0,1.0
+2024-06-08,Dumbbell Bench Press,22,8.0,1.0
+2024-06-08,Incline Bench Press,18,8.0,1.0
+2024-06-08,Incline Bench Press,18,10.0,1.0
+2024-06-08,Incline Bench Press,20,8.0,1.0
+2024-06-08,Tricep Pull Downs,5,12.0,1.0
+2024-06-08,Tricep Pull Downs,5,12.0,1.0
+2024-06-08,Tricep Pull Downs,5,12.0,1.0
+2024-06-08,Tricep Pull Downs,5,12.0,1.0
+2024-06-08,Pectoral Fly'S,45,10.0,1.0
+2024-06-08,Pectoral Fly'S,52,8.0,1.0
+2024-06-08,Pectoral Fly'S,52,8.0,1.0
+2024-06-08,Pectoral Fly'S,52,8.0,1.0
+2024-06-10,Deadlifts,70,8.0,1.0
+2024-06-10,Deadlifts,80,8.0,1.0
+2024-06-10,Deadlifts,80,8.0,1.0
+2024-06-10,Deadlifts,90,3.0,1.0
+2024-06-10,Lat Pulldown,32,8.0,1.0
+2024-06-10,Lat Pulldown,39,10.0,1.0
+2024-06-10,Lat Pulldown,39,10.0,1.0
+2024-06-10,Lat Pulldown,1,8.0,1.0
+2024-06-10,Cable Rows,32,8.0,1.0
+2024-06-10,Cable Rows,39,8.0,1.0
+2024-06-10,Cable Rows,45,8.0,1.0
+2024-06-10,Cable Rows,39,8.0,1.0
+2024-06-10,Rear Delt Fly,32,8.0,1.0
+2024-06-10,Rear Delt Fly,32,8.0,1.0
+2024-06-10,Rear Delt Fly,32,8.0,1.0
+2024-06-10,Concentrated Bicep Curls,20,10.0,1.0
+2024-06-10,Concentrated Bicep Curls,20,10.0,1.0
+2024-06-10,Concentrated Bicep Curls,20,8.0,1.0
+2024-06-13,Shoulder Press,15,6.0,1.0
+2024-06-13,Shoulder Press,15,8.0,1.0
+2024-06-13,Shoulder Press,15,7.0,1.0
+2024-06-13,Shoulder Press,5,10.0,1.0
+2024-06-13,Lateral Raises,5,15.0,1.0
+2024-06-13,Lateral Raises,5,15.0,1.0
+2024-06-13,Lateral Raises,5,15.0,1.0
+2024-06-13,Lateral Raises,5,15.0,1.0
+2024-06-13,Lateral Raises,5,15.0,1.0
+2024-06-13,Lateral Raises,6,15.0,1.0
+2024-06-13,Lateral Raises,6,15.0,1.0
+2024-06-18,Squats,40,10.0,1.0
+2024-06-18,Squats,60,8.0,1.0
+2024-06-18,Squats,70,8.0,1.0
+2024-06-18,Squats,70,4.0,1.0
+2024-06-18,Romanian Deadlifts,40,8.0,1.0
+2024-06-18,Romanian Deadlifts,50,8.0,1.0
+2024-06-18,Romanian Deadlifts,55,8.0,1.0
+2024-06-18,Standing Calf Raises,40,15.0,1.0
+2024-06-18,Standing Calf Raises,60,15.0,1.0
+2024-06-18,Leg Extensions,25,8.0,1.0
+2024-06-18,Leg Extensions,32,8.0,1.0
+2024-06-18,Leg Extensions,39,8.0,1.0
+2024-06-18,Leg Extensions,32,8.0,1.0
+2024-06-19,Bench Press,40,10.0,1.0
+2024-06-19,Bench Press,50,8.0,1.0
+2024-06-19,Bench Press,55,6.0,1.0
+2024-06-19,Bench Press,55,6.0,1.0
+2024-06-19,Incline Bench Press,18,8.0,1.0
+2024-06-19,Incline Bench Press,20,8.0,1.0
+2024-06-19,Incline Bench Press,20,7.0,1.0
+2024-06-19,Tricep Pull Downs,5,12.0,1.0
+2024-06-19,Tricep Pull Downs,5,12.0,1.0
+2024-06-19,Tricep Pull Downs,7,6.0,1.0
+2024-06-19,Tricep Pull Downs,5,12.0,1.0
+2024-06-19,Pectoral Fly'S,45,10.0,1.0
+2024-06-19,Pectoral Fly'S,52,8.0,1.0
+2024-06-19,Pectoral Fly'S,59,8.0,1.0
+2024-06-19,Pectoral Fly'S,59,6.0,1.0
+2024-06-22,Lat Pulldown,32,8.0,1.0
+2024-06-22,Lat Pulldown,39,10.0,1.0
+2024-06-22,Lat Pulldown,1,8.0,1.0
+2024-06-22,Lat Pulldown,1,8.0,1.0
+2024-06-22,Cable Rows,32,8.0,1.0
+2024-06-22,Cable Rows,39,8.0,1.0
+2024-06-22,Cable Rows,45,8.0,1.0
+2024-06-22,Cable Rows,45,8.0,1.0
+2024-06-22,Concentrated Bicep Curls,20,10.0,1.0
+2024-06-22,Concentrated Bicep Curls,20,10.0,1.0
+2024-06-22,Concentrated Bicep Curls,20,6.0,1.0
+2024-06-22,Rear Delt Fly,25,8.0,1.0
+2024-06-22,Rear Delt Fly,32,8.0,1.0
+2024-06-22,Rear Delt Fly,32,8.0,1.0
+2024-06-23,Shoulder Press,12,8.0,1.0
+2024-06-23,Shoulder Press,16,8.0,1.0
+2024-06-23,Shoulder Press,18,8.0,1.0
+2024-06-23,Shoulder Press,18,6.0,1.0
+2024-06-23,Lateral Raises,6,15.0,1.0
+2024-06-23,Lateral Raises,6,15.0,1.0
+2024-06-23,Lateral Raises,8,15.0,1.0
+2024-06-23,Lateral Raises,8,15.0,1.0
+2024-06-23,L Sits,5,10.0,1.0
+2024-06-23,L Sits,5,10.0,1.0
+2024-06-25,Squats,40,10.0,1.0
+2024-06-25,Squats,60,8.0,1.0
+2024-06-25,Squats,70,8.0,1.0
+2024-06-25,Squats,70,8.0,1.0
+2024-06-25,Romanian Deadlifts,40,8.0,1.0
+2024-06-25,Romanian Deadlifts,50,8.0,1.0
+2024-06-25,Romanian Deadlifts,55,8.0,1.0
+2024-06-25,Standing Calf Raises,50,15.0,1.0
+2024-06-25,Standing Calf Raises,50,15.0,1.0
+2024-06-25,Standing Calf Raises,50,15.0,1.0
+2024-06-25,Leg Extensions,25,8.0,1.0
+2024-06-25,Leg Extensions,32,8.0,1.0
+2024-06-25,Leg Extensions,39,8.0,1.0
+2024-06-25,Leg Extensions,32,8.0,1.0
+2024-06-27,Bench Press,40,10.0,1.0
+2024-06-27,Bench Press,50,8.0,1.0
+2024-06-27,Bench Press,55,8.0,1.0
+2024-06-27,Bench Press,55,5.0,1.0
+2024-06-27,Bench Press,55,3.0,1.0
+2024-06-27,Incline Bench Press,18,8.0,1.0
+2024-06-27,Incline Bench Press,20,8.0,1.0
+2024-06-27,Incline Bench Press,20,8.0,1.0
+2024-06-27,Tricep Pull Downs,5,12.0,1.0
+2024-06-27,Tricep Pull Downs,5,12.0,1.0
+2024-06-27,Tricep Pull Downs,7,6.0,1.0
+2024-06-27,Tricep Pull Downs,5,12.0,1.0
+2024-06-27,Pectoral Fly'S,45,10.0,1.0
+2024-06-27,Pectoral Fly'S,52,8.0,1.0
+2024-06-27,Pectoral Fly'S,59,8.0,1.0
+2024-06-27,Pectoral Fly'S,59,6.0,1.0
+2024-06-30,Lat Pulldown,32,8.0,1.0
+2024-06-30,Lat Pulldown,39,10.0,1.0
+2024-06-30,Lat Pulldown,1,8.0,1.0
+2024-06-30,Lat Pulldown,1,8.0,1.0
+2024-06-30,Lat Pulldown,4,8.0,1.0
+2024-06-30,Rear Delt Fly,25,8.0,1.0
+2024-06-30,Rear Delt Fly,32,8.0,1.0
+2024-06-30,Rear Delt Fly,32,8.0,1.0
+2024-06-30,Rear Delt Fly,32,8.0,1.0
+2024-06-30,Cable Rows,32,8.0,1.0
+2024-06-30,Cable Rows,39,8.0,1.0
+2024-06-30,Cable Rows,45,8.0,1.0
+2024-06-30,Cable Rows,45,8.0,1.0
+2024-07-06,Squats,40,10.0,1.0
+2024-07-06,Squats,60,8.0,1.0
+2024-07-06,Squats,60,8.0,1.0
+2024-07-06,Standing Calf Raises,50,15.0,1.0
+2024-07-06,Standing Calf Raises,50,15.0,1.0
+2024-07-06,Standing Calf Raises,60,15.0,1.0
+2024-07-06,Leg Press,59,8.0,1.0
+2024-07-06,Leg Press,73,8.0,1.0
+2024-07-06,Leg Press,73,8.0,1.0
+2024-07-06,Leg Extensions,25,8.0,1.0
+2024-07-06,Leg Extensions,32,8.0,1.0
+2024-07-06,Leg Extensions,39,8.0,1.0
+2024-07-06,Leg Extensions,39,8.0,1.0
+2024-07-07,L Sits,6,20.0,1.0
+2024-07-07,L Sits,6,20.0,1.0
+2024-07-07,L Sits,6,20.0,1.0
+2024-07-11,Squats,40,10.0,1.0
+2024-07-11,Squats,60,8.0,1.0
+2024-07-11,Squats,70,8.0,1.0
+2024-07-11,Squats,70,8.0,1.0
+2024-07-11,Standing Calf Raises,50,15.0,1.0
+2024-07-11,Standing Calf Raises,50,15.0,1.0
+2024-07-11,Standing Calf Raises,50,15.0,1.0
+2024-07-11,Leg Press,59,8.0,1.0
+2024-07-11,Leg Press,73,8.0,1.0
+2024-07-11,Leg Press,73,8.0,1.0
+2024-07-11,Leg Extensions,25,8.0,1.0
+2024-07-11,Leg Extensions,32,8.0,1.0
+2024-07-11,Leg Extensions,39,8.0,1.0
+2024-07-11,Leg Extensions,39,8.0,1.0
+2024-07-12,Lat Pulldown,39,10.0,1.0
+2024-07-12,Lat Pulldown,1,8.0,1.0
+2024-07-12,Lat Pulldown,1,8.0,1.0
+2024-07-12,Lat Pulldown,4,8.0,1.0
+2024-07-12,Rear Delt Fly,25,8.0,1.0
+2024-07-12,Rear Delt Fly,32,8.0,1.0
+2024-07-12,Rear Delt Fly,39,8.0,1.0
+2024-07-12,Machine Rows,32,8.0,1.0
+2024-07-12,Machine Rows,36,8.0,1.0
+2024-07-12,Machine Rows,36,8.0,1.0
+2024-07-12,Machine Rows,36,8.0,1.0
+2024-07-12,Cable Rows,32,8.0,1.0
+2024-07-12,Cable Rows,39,8.0,1.0
+2024-07-12,Cable Rows,45,8.0,1.0
+2024-07-12,Cable Rows,45,8.0,1.0
+2024-07-15,Bench Press,40,10.0,1.0
+2024-07-15,Bench Press,40,10.0,1.0
+2024-07-15,Bench Press,40,10.0,1.0
+2024-07-15,Tricep Extension Machine,27,10.0,1.0
+2024-07-15,Tricep Extension Machine,32,10.0,1.0
+2024-07-15,Tricep Extension Machine,36,10.0,1.0
+2024-07-15,Tricep Extension Machine,36,10.0,1.0
+2024-07-15,Tricep Extension Machine,41,6.0,1.0
+2024-07-15,Pectoral Fly'S,45,10.0,1.0
+2024-07-15,Pectoral Fly'S,52,8.0,1.0
+2024-07-15,Pectoral Fly'S,59,8.0,1.0
+2024-07-15,Pectoral Fly'S,59,6.0,1.0
+2024-07-17,Shoulder Press,10,8.0,1.0
+2024-07-17,Shoulder Press,12,12.0,1.0
+2024-07-17,Shoulder Press,12,12.0,1.0
+2024-07-17,Shoulder Press,12,12.0,1.0
+2024-07-17,Lateral Raises,5,15.0,1.0
+2024-07-17,Lateral Raises,5,15.0,1.0
+2024-07-17,Lateral Raises,5,15.0,1.0
+2024-07-17,Lateral Raises,5,15.0,1.0
+2024-07-17,L Sits,5,10.0,1.0
+2024-07-17,L Sits,5,10.0,1.0
+2024-08-17,Dumbbell Bench Press,12,10.0,1.0
+2024-08-17,Dumbbell Bench Press,16,12.0,1.0
+2024-08-17,Dumbbell Bench Press,20,10.0,1.0
+2024-08-17,Dumbbell Bench Press,20,10.0,1.0
+2024-08-17,Tricep Pull Downs,5,12.0,1.0
+2024-08-17,Tricep Pull Downs,5,12.0,1.0
+2024-08-17,Tricep Pull Downs,5,12.0,1.0
+2024-08-17,Pectoral Fly'S,45,10.0,1.0
+2024-08-17,Pectoral Fly'S,52,8.0,1.0
+2024-08-17,Pectoral Fly'S,52,8.0,1.0
+2024-08-19,Lat Pulldown,32,8.0,1.0
+2024-08-19,Lat Pulldown,39,10.0,1.0
+2024-08-19,Lat Pulldown,1,8.0,1.0
+2024-08-19,Lat Pulldown,1,8.0,1.0
+2024-08-19,Cable Rows,32,8.0,1.0
+2024-08-19,Cable Rows,39,8.0,1.0
+2024-08-19,Cable Rows,45,8.0,1.0
+2024-08-19,Cable Rows,39,8.0,1.0
+2024-08-19,Bicep Curls,8,8.0,1.0
+2024-08-19,Concentrated Bicep Curls,20,5.0,1.0
+2024-08-19,Concentrated Bicep Curls,20,3.0,1.0
+2024-08-19,Concentrated Bicep Curls,20,2.0,1.0
+2024-08-19,Rear Delt Fly,25,8.0,1.0
+2024-08-19,Rear Delt Fly,32,8.0,1.0
+2024-08-19,Rear Delt Fly,32,8.0,1.0
+2024-08-21,Shoulder Press,12,8.0,1.0
+2024-08-21,Shoulder Press,16,8.0,1.0
+2024-08-21,Shoulder Press,16,8.0,1.0
+2024-08-21,Shoulder Press,16,8.0,1.0
+2024-08-21,Lateral Raises,6,15.0,1.0
+2024-08-21,Lateral Raises,6,15.0,1.0
+2024-08-21,Lateral Raises,8,15.0,1.0
+2024-08-21,Lateral Raises,8,15.0,1.0
+2024-08-21,L Sits,5,10.0,1.0
+2024-08-21,L Sits,5,10.0,1.0
+2024-08-21,L Sits,5,10.0,1.0
+2024-09-01,Squats,40,10.0,1.0
+2024-09-01,Squats,60,8.0,1.0
+2024-09-01,Squats,60,8.0,1.0
+2024-09-01,Standing Calf Raises,40,15.0,1.0
+2024-09-01,Standing Calf Raises,50,15.0,1.0
+2024-09-01,Standing Calf Raises,50,15.0,1.0
+2024-09-01,Leg Extensions,25,8.0,1.0
+2024-09-01,Leg Extensions,32,8.0,1.0
+2024-09-01,Leg Extensions,39,8.0,1.0
+2024-09-02,Dumbbell Bench Press,10,10.0,1.0
+2024-09-02,Dumbbell Bench Press,16,12.0,1.0
+2024-09-02,Dumbbell Bench Press,20,10.0,1.0
+2024-09-02,Dumbbell Bench Press,20,10.0,1.0
+2024-09-02,Incline Bench Press,16,8.0,1.0
+2024-09-02,Incline Bench Press,16,8.0,1.0
+2024-09-02,Incline Bench Press,18,8.0,1.0
+2024-09-02,Tricep Pull Downs,5,10.0,1.0
+2024-09-02,Tricep Pull Downs,7,8.0,1.0
+2024-09-02,Tricep Pull Downs,7,8.0,1.0
+2024-09-02,Pectoral Fly'S,45,10.0,1.0
+2024-09-02,Pectoral Fly'S,52,8.0,1.0
+2024-09-02,Pectoral Fly'S,52,8.0,1.0
+2024-09-02,Pectoral Fly'S,52,5.0,1.0
+2024-09-05,Deadlifts,40,8.0,1.0
+2024-09-05,Deadlifts,60,8.0,1.0
+2024-09-05,Deadlifts,80,8.0,1.0
+2024-09-05,Lat Pulldown,32,8.0,1.0
+2024-09-05,Lat Pulldown,39,10.0,1.0
+2024-09-05,Lat Pulldown,1,8.0,1.0
+2024-09-05,Lat Pulldown,1,8.0,1.0
+2024-09-05,Machine Rows,32,8.0,1.0
+2024-09-05,Machine Rows,27,8.0,1.0
+2024-09-05,Machine Rows,27,8.0,1.0
+2024-09-05,Cable Rows,32,8.0,1.0
+2024-09-05,Cable Rows,39,8.0,1.0
+2024-09-05,Cable Rows,45,8.0,1.0
+2024-09-05,Cable Rows,39,8.0,1.0
+2024-09-05,Bicep Curls,6,8.0,1.0
+2024-09-05,Bicep Curls,10,8.0,1.0
+2024-09-05,Bicep Curls,10,8.0,1.0
+2024-09-05,Concentrated Bicep Curls,20,5.0,1.0
+2024-09-05,Concentrated Bicep Curls,20,3.0,1.0
+2024-09-05,Concentrated Bicep Curls,20,2.0,1.0
+2024-09-06,Shoulder Press,12,8.0,1.0
+2024-09-06,Shoulder Press,16,8.0,1.0
+2024-09-06,Shoulder Press,16,8.0,1.0
+2024-09-06,Shoulder Press,16,8.0,1.0
+2024-09-06,Rear Delt Fly,25,8.0,1.0
+2024-09-06,Rear Delt Fly,32,8.0,1.0
+2024-09-06,Rear Delt Fly,32,8.0,1.0
+2024-09-06,Rear Delt Fly,32,8.0,1.0
+2024-09-06,Lateral Raises,6,15.0,1.0
+2024-09-06,Lateral Raises,6,15.0,1.0
+2024-09-06,Lateral Raises,8,15.0,1.0
+2024-09-06,Lateral Raises,8,15.0,1.0
+2024-09-06,L Sits,5,10.0,1.0
+2024-09-06,L Sits,5,10.0,1.0
+2024-09-09,Squats,40,10.0,1.0
+2024-09-09,Squats,60,8.0,1.0
+2024-09-09,Squats,60,8.0,1.0
+2024-09-09,Squats,60,8.0,1.0
+2024-09-09,Leg Press,59,8.0,1.0
+2024-09-09,Leg Press,59,8.0,1.0
+2024-09-09,Leg Press,59,8.0,1.0
+2024-09-09,Standing Calf Raises,50,15.0,1.0
+2024-09-09,Standing Calf Raises,50,15.0,1.0
+2024-09-09,Standing Calf Raises,50,15.0,1.0
+2024-09-09,Leg Extensions,25,8.0,1.0
+2024-09-09,Leg Extensions,32,8.0,1.0
+2024-09-09,Leg Extensions,39,8.0,1.0
+2024-09-10,Bench Press,40,10.0,1.0
+2024-09-10,Bench Press,50,8.0,1.0
+2024-09-10,Bench Press,50,8.0,1.0
+2024-09-10,Bench Press,50,8.0,1.0
+2024-09-10,Incline Bench Press,16,8.0,1.0
+2024-09-10,Incline Bench Press,18,8.0,1.0
+2024-09-10,Incline Bench Press,18,8.0,1.0
+2024-09-10,Tricep Pull Downs,7,12.0,1.0
+2024-09-10,Tricep Pull Downs,5,12.0,1.0
+2024-09-10,Tricep Pull Downs,5,12.0,1.0
+2024-09-10,Tricep Pull Downs,5,12.0,1.0
+2024-09-10,Pectoral Fly'S,52,8.0,1.0
+2024-09-10,Pectoral Fly'S,52,8.0,1.0
+2024-09-10,Pectoral Fly'S,52,8.0,1.0
+2024-09-13,Lat Pulldown,32,8.0,1.0
+2024-09-13,Lat Pulldown,39,10.0,1.0
+2024-09-13,Lat Pulldown,1,8.0,1.0
+2024-09-13,Lat Pulldown,1,8.0,1.0
+2024-09-13,Lat Pulldown,1,8.0,1.0
+2024-09-13,Machine Rows,32,8.0,1.0
+2024-09-13,Machine Rows,27,8.0,1.0
+2024-09-13,Machine Rows,32,8.0,1.0
+2024-09-13,Cable Rows,32,8.0,1.0
+2024-09-13,Cable Rows,45,8.0,1.0
+2024-09-13,Cable Rows,39,8.0,1.0
+2024-09-13,Bicep Curls,8,8.0,1.0
+2024-09-13,Bicep Curls,10,8.0,1.0
+2024-09-13,Bicep Curls,12,5.0,1.0
+2024-09-13,Bicep Curls,10,10.0,1.0
+2024-09-15,Shoulder Press,12,8.0,1.0
+2024-09-15,Shoulder Press,16,8.0,1.0
+2024-09-15,Shoulder Press,16,8.0,1.0
+2024-09-15,Shoulder Press,16,8.0,1.0
+2024-09-15,Rear Delt Fly,25,8.0,1.0
+2024-09-15,Rear Delt Fly,32,8.0,1.0
+2024-09-15,Rear Delt Fly,32,8.0,1.0
+2024-09-15,Rear Delt Fly,32,8.0,1.0
+2024-09-15,Lateral Raises,6,15.0,1.0
+2024-09-15,Lateral Raises,6,15.0,1.0
+2024-09-15,Lateral Raises,8,15.0,1.0
+2024-09-15,Lateral Raises,8,15.0,1.0
+2024-09-15,L Sits,5,15.0,1.0
+2024-09-15,L Sits,5,10.0,1.0
+2024-09-16,Squats,40,10.0,1.0
+2024-09-16,Squats,60,8.0,1.0
+2024-09-16,Squats,70,8.0,1.0
+2024-09-16,Squats,70,8.0,1.0
+2024-09-16,Romanian Deadlifts,40,8.0,1.0
+2024-09-16,Romanian Deadlifts,40,8.0,1.0
+2024-09-16,Romanian Deadlifts,45,8.0,1.0
+2024-09-16,Leg Press,59,8.0,1.0
+2024-09-16,Leg Press,59,8.0,1.0
+2024-09-16,Leg Press,59,8.0,1.0
+2024-09-16,Standing Calf Raises,50,15.0,1.0
+2024-09-16,Standing Calf Raises,50,15.0,1.0
+2024-09-16,Standing Calf Raises,60,14.0,1.0
+2024-09-16,Leg Extensions,25,8.0,1.0
+2024-09-16,Leg Extensions,39,8.0,1.0
+2024-09-16,Leg Extensions,39,8.0,1.0
+2024-09-20,Bench Press,40,10.0,1.0
+2024-09-20,Bench Press,50,8.0,1.0
+2024-09-20,Bench Press,55,4.0,1.0
+2024-09-20,Bench Press,50,8.0,1.0
+2024-09-20,Incline Bench Press,16,8.0,1.0
+2024-09-20,Incline Bench Press,18,8.0,1.0
+2024-09-20,Incline Bench Press,18,8.0,1.0
+2024-09-20,Incline Bench Press,18,8.0,1.0
+2024-09-20,Pectoral Fly'S,52,8.0,1.0
+2024-09-20,Pectoral Fly'S,59,8.0,1.0
+2024-09-23,Lat Pulldown,39,8.0,1.0
+2024-09-23,Lat Pulldown,1,8.0,1.0
+2024-09-23,Lat Pulldown,1,8.0,1.0
+2024-09-23,Lat Pulldown,1,8.0,1.0
+2024-09-23,Machine Rows,32,8.0,1.0
+2024-09-23,Machine Rows,27,8.0,1.0
+2024-09-23,Machine Rows,32,8.0,1.0
+2024-09-23,Cable Rows,32,8.0,1.0
+2024-09-23,Cable Rows,39,8.0,1.0
+2024-09-23,Cable Rows,32,8.0,1.0
+2024-09-23,Bicep Curls,8,8.0,1.0
+2024-09-23,Bicep Curls,12,7.0,1.0
+2024-09-25,Shoulder Press,14,8.0,1.0
+2024-09-25,Shoulder Press,18,8.0,1.0
+2024-09-25,Shoulder Press,18,6.0,1.0
+2024-09-25,Shoulder Press,16,10.0,1.0
+2024-09-25,Rear Delt Fly,25,8.0,1.0
+2024-09-25,Rear Delt Fly,32,8.0,1.0
+2024-09-25,Rear Delt Fly,32,8.0,1.0
+2024-09-25,Rear Delt Fly,39,8.0,1.0
+2024-09-25,Lateral Raises,6,15.0,1.0
+2024-09-25,Lateral Raises,6,15.0,1.0
+2024-09-25,Lateral Raises,8,15.0,1.0
+2024-09-25,Lateral Raises,8,15.0,1.0
+2024-09-25,L Sits,5,15.0,1.0
+2024-09-25,L Sits,5,10.0,1.0
+2024-09-27,Squats,40,10.0,1.0
+2024-09-27,Squats,60,8.0,1.0
+2024-09-27,Squats,70,8.0,1.0
+2024-09-27,Squats,70,8.0,1.0
+2024-09-27,Squats,80,2.0,1.0
+2024-09-27,Romanian Deadlifts,40,8.0,1.0
+2024-09-27,Romanian Deadlifts,50,8.0,1.0
+2024-09-27,Romanian Deadlifts,50,8.0,1.0
+2024-09-27,Leg Press,59,8.0,1.0
+2024-09-27,Leg Press,66,8.0,1.0
+2024-09-27,Leg Press,73,8.0,1.0
+2024-09-27,Standing Calf Raises,50,15.0,1.0
+2024-09-27,Standing Calf Raises,50,15.0,1.0
+2024-09-27,Leg Extensions,25,8.0,1.0
+2024-09-27,Leg Extensions,39,8.0,1.0
+2024-09-27,Leg Extensions,39,8.0,1.0
+2024-09-27,Leg Extensions,39,8.0,1.0
+2024-09-28,Bench Press,40,10.0,1.0
+2024-09-28,Bench Press,50,8.0,1.0
+2024-09-28,Bench Press,55,6.0,1.0
+2024-09-28,Bench Press,55,5.0,1.0
+2024-09-28,Bench Press,60,1.0,1.0
+2024-09-28,Incline Bench Press,16,8.0,1.0
+2024-09-28,Incline Bench Press,18,8.0,1.0
+2024-09-28,Incline Bench Press,20,8.0,1.0
+2024-09-28,Incline Bench Press,20,8.0,1.0
+2024-09-28,Tricep Pull Downs,7,12.0,1.0
+2024-09-28,Tricep Pull Downs,5,12.0,1.0
+2024-09-28,Tricep Pull Downs,5,12.0,1.0
+2024-09-28,Tricep Pull Downs,7,12.0,1.0
+2024-09-28,Pectoral Fly'S,52,8.0,1.0
+2024-09-28,Pectoral Fly'S,59,8.0,1.0
+2024-09-28,Pectoral Fly'S,66,6.0,1.0
+2024-09-28,Pectoral Fly'S,58,8.0,1.0
+2024-10-02,Lat Pull Down Machine,30,8.0,1.0
+2024-10-02,Lat Pull Down Machine,35,8.0,1.0
+2024-10-02,Lat Pull Down Machine,35,8.0,1.0
+2024-10-02,Lat Pull Down Machine,35,8.0,1.0
+2024-10-02,Machine Rows,32,8.0,1.0
+2024-10-02,Machine Rows,32,8.0,1.0
+2024-10-02,Machine Rows,32,8.0,1.0
+2024-10-02,Machine Rows,32,8.0,1.0
+2024-10-02,Concentrated Bicep Curls,23,8.0,1.0
+2024-10-02,Concentrated Bicep Curls,23,8.0,1.0
+2024-10-02,Concentrated Bicep Curls,27,8.0,1.0
+2024-10-04,Squats,60,8.0,1.0
+2024-10-04,Squats,70,8.0,1.0
+2024-10-04,Squats,70,8.0,1.0
+2024-10-04,Romanian Deadlifts,40,8.0,1.0
+2024-10-04,Romanian Deadlifts,50,8.0,1.0
+2024-10-04,Romanian Deadlifts,50,8.0,1.0
+2024-10-04,Sitting Calf Raises,20,10.0,1.0
+2024-10-04,Sitting Calf Raises,20,10.0,1.0
+2024-10-04,Sitting Calf Raises,20,10.0,1.0
+2024-10-04,Leg Extensions,36,8.0,1.0
+2024-10-04,Leg Extensions,5,8.0,1.0
+2024-10-08,Shoulder Press,14,8.0,1.0
+2024-10-08,Shoulder Press,18,6.0,1.0
+2024-10-08,Shoulder Press,18,6.0,1.0
+2024-10-08,Shoulder Press,16,8.0,1.0
+2024-10-08,Rear Delt Fly,25,8.0,1.0
+2024-10-08,Rear Delt Fly,32,8.0,1.0
+2024-10-08,Rear Delt Fly,32,8.0,1.0
+2024-10-08,Rear Delt Fly,39,8.0,1.0
+2024-10-08,Lateral Raises,6,15.0,1.0
+2024-10-08,Lateral Raises,6,15.0,1.0
+2024-10-08,Lateral Raises,8,10.0,1.0
+2024-10-08,Lateral Raises,6,15.0,1.0
+2024-10-08,L Sits,5,15.0,1.0
+2024-10-08,L Sits,5,10.0,1.0
+2024-10-09,Dumbbell Bench Press,10,10.0,1.0
+2024-10-09,Dumbbell Bench Press,20,8.0,1.0
+2024-10-09,Dumbbell Bench Press,24,8.0,1.0
+2024-10-09,Dumbbell Bench Press,24,6.0,1.0
+2024-10-09,Incline Bench Press,18,8.0,1.0
+2024-10-09,Incline Bench Press,18,8.0,1.0
+2024-10-09,Incline Bench Press,18,8.0,1.0
+2024-10-09,Tricep Pull Downs,5,12.0,1.0
+2024-10-09,Tricep Pull Downs,5,12.0,1.0
+2024-10-09,Tricep Pull Downs,5,12.0,1.0
+2024-10-09,Tricep Pull Downs,7,12.0,1.0
+2024-10-09,Pectoral Fly'S,52,8.0,1.0
+2024-10-09,Pectoral Fly'S,59,8.0,1.0
+2024-10-09,Pectoral Fly'S,66,6.0,1.0
+2024-10-09,Pectoral Fly'S,59,8.0,1.0
+2024-10-11,Deadlifts,40,8.0,1.0
+2024-10-11,Deadlifts,60,8.0,1.0
+2024-10-11,Deadlifts,80,8.0,1.0
+2024-10-11,Deadlifts,80,8.0,1.0
+2024-10-11,Deadlifts,90,6.0,1.0
+2024-10-11,Lat Pulldown,39,8.0,1.0
+2024-10-11,Lat Pulldown,3,8.0,1.0
+2024-10-11,Lat Pulldown,3,8.0,1.0
+2024-10-11,Lat Pulldown,4,8.0,1.0
+2024-10-11,Machine Rows,27,8.0,1.0
+2024-10-11,Machine Rows,32,8.0,1.0
+2024-10-11,Machine Rows,32,8.0,1.0
+2024-10-11,Cable Rows,32,8.0,1.0
+2024-10-11,Cable Rows,39,8.0,1.0
+2024-10-11,Cable Rows,32,8.0,1.0
+2024-10-11,Bicep Curls,10,8.0,1.0
+2024-10-11,Bicep Curls,12,8.0,1.0
+2024-10-11,Bicep Curls,12,8.0,1.0
+2024-10-11,Bicep Curls,10,8.0,1.0
+2024-10-12,Shoulder Press,14,8.0,1.0
+2024-10-12,Shoulder Press,18,8.0,1.0
+2024-10-12,Shoulder Press,18,6.0,1.0
+2024-10-12,Shoulder Press,16,7.0,1.0
+2024-10-12,Rear Delt Fly,25,8.0,1.0
+2024-10-12,Rear Delt Fly,32,8.0,1.0
+2024-10-12,Rear Delt Fly,39,8.0,1.0
+2024-10-12,Rear Delt Fly,39,8.0,1.0
+2024-10-12,Lateral Raises,6,15.0,1.0
+2024-10-12,Lateral Raises,6,15.0,1.0
+2024-10-12,Lateral Raises,8,15.0,1.0
+2024-10-12,Lateral Raises,8,15.0,1.0
+2024-10-12,L Sits,5,15.0,1.0
+2024-10-12,L Sits,5,10.0,1.0
+2024-10-12,L Sits,5,15.0,1.0
+2024-10-14,Squats,40,10.0,1.0
+2024-10-14,Squats,60,8.0,1.0
+2024-10-14,Squats,70,8.0,1.0
+2024-10-14,Squats,70,8.0,1.0
+2024-10-14,Squats,70,8.0,1.0
+2024-10-14,Squats,80,3.0,1.0
+2024-10-14,Leg Extensions,25,8.0,1.0
+2024-10-14,Leg Extensions,39,8.0,1.0
+2024-10-14,Leg Extensions,39,8.0,1.0
+2024-10-14,Leg Extensions,39,8.0,1.0
+2024-10-14,Standing Calf Raises,50,15.0,1.0
+2024-10-14,Standing Calf Raises,50,15.0,1.0
+2024-10-14,Leg Press,59,8.0,1.0
+2024-10-14,Leg Press,66,8.0,1.0
+2024-10-14,Leg Press,73,8.0,1.0
+2024-10-17,Bench Press,40,10.0,1.0
+2024-10-17,Bench Press,50,8.0,1.0
+2024-10-17,Bench Press,55,8.0,1.0
+2024-10-17,Bench Press,55,6.0,1.0
+2024-10-17,Bench Press,60,2.0,1.0
+2024-10-17,Incline Bench Press,18,8.0,1.0
+2024-10-17,Incline Bench Press,22,5.0,1.0
+2024-10-17,Incline Bench Press,20,8.0,1.0
+2024-10-17,Tricep Pull Downs,7,12.0,1.0
+2024-10-17,Tricep Pull Downs,5,12.0,1.0
+2024-10-17,Tricep Pull Downs,7,12.0,1.0
+2024-10-17,Pectoral Fly'S,59,8.0,1.0
+2024-10-17,Pectoral Fly'S,66,8.0,1.0
+2024-10-17,Pectoral Fly'S,66,5.0,1.0
+2024-10-17,Pectoral Fly'S,59,6.0,1.0
+2024-10-18,Deadlifts,40,8.0,1.0
+2024-10-18,Deadlifts,60,8.0,1.0
+2024-10-18,Deadlifts,80,8.0,1.0
+2024-10-18,Deadlifts,80,8.0,1.0
+2024-10-18,Deadlifts,90,6.0,1.0
+2024-10-18,Lat Pulldown,39,8.0,1.0
+2024-10-18,Lat Pulldown,3,8.0,1.0
+2024-10-18,Lat Pulldown,6,8.0,1.0
+2024-10-18,Machine Rows,27,8.0,1.0
+2024-10-18,Machine Rows,32,8.0,1.0
+2024-10-18,Machine Rows,32,8.0,1.0
+2024-10-18,Cable Rows,32,8.0,1.0
+2024-10-18,Cable Rows,39,8.0,1.0
+2024-10-18,Cable Rows,32,8.0,1.0
+2024-10-18,Bicep Curls,10,8.0,1.0
+2024-10-18,Bicep Curls,12,8.0,1.0
+2024-10-18,Bicep Curls,12,8.0,1.0
+2024-10-18,Bicep Curls,10,8.0,1.0
+2024-10-20,Shoulder Press,14,8.0,1.0
+2024-10-20,Shoulder Press,16,8.0,1.0
+2024-10-20,Shoulder Press,18,8.0,1.0
+2024-10-20,Shoulder Press,18,6.0,1.0
+2024-10-20,Rear Delt Fly,25,8.0,1.0
+2024-10-20,Rear Delt Fly,25,15.0,1.0
+2024-10-20,Rear Delt Fly,25,15.0,1.0
+2024-10-20,Lateral Raises,6,15.0,1.0
+2024-10-20,Lateral Raises,6,15.0,1.0
+2024-10-20,Lateral Raises,8,15.0,1.0
+2024-10-20,Lateral Raises,8,15.0,1.0
+2024-10-20,L Sits,5,15.0,1.0
+2024-10-20,L Sits,5,10.0,1.0
+2024-10-20,L Sits,5,15.0,1.0
+2024-10-23,Squats,40,10.0,1.0
+2024-10-23,Squats,60,8.0,1.0
+2024-10-23,Squats,70,8.0,1.0
+2024-10-23,Squats,70,8.0,1.0
+2024-10-23,Squats,70,8.0,1.0
+2024-10-23,Leg Press,59,8.0,1.0
+2024-10-23,Leg Press,66,8.0,1.0
+2024-10-23,Leg Press,73,8.0,1.0
+2024-10-23,Leg Press,79,8.0,1.0
+2024-10-23,Standing Calf Raises,50,15.0,1.0
+2024-10-23,Standing Calf Raises,50,15.0,1.0
+2024-10-23,Standing Calf Raises,50,15.0,1.0
+2024-10-23,Leg Extensions,25,8.0,1.0
+2024-10-23,Leg Extensions,39,8.0,1.0
+2024-10-23,Leg Extensions,39,8.0,1.0
+2024-10-23,Leg Extensions,39,8.0,1.0
+2024-10-29,Bench Press,40,10.0,1.0
+2024-10-29,Bench Press,50,8.0,1.0
+2024-10-29,Bench Press,55,7.0,1.0
+2024-10-29,Bench Press,55,5.0,1.0
+2024-10-29,Incline Bench Press,18,8.0,1.0
+2024-10-29,Incline Bench Press,20,8.0,1.0
+2024-10-29,Incline Bench Press,20,8.0,1.0
+2024-10-29,Tricep Pull Downs,7,12.0,1.0
+2024-10-29,Tricep Pull Downs,7,8.0,1.0
+2024-10-29,Tricep Pull Downs,5,12.0,1.0
+2024-10-29,Tricep Pull Downs,7,12.0,1.0
+2024-10-29,Pectoral Fly'S,59,8.0,1.0
+2024-10-29,Pectoral Fly'S,66,8.0,1.0
+2024-10-29,Pectoral Fly'S,66,5.0,1.0
+2024-10-29,Pectoral Fly'S,59,6.0,1.0
+2024-10-31,Lat Pull Down Machine,30,8.0,1.0
+2024-10-31,Lat Pull Down Machine,35,8.0,1.0
+2024-10-31,Lat Pull Down Machine,35,8.0,1.0
+2024-10-31,Lat Pull Down Machine,35,8.0,1.0
+2024-10-31,Machine Rows,32,8.0,1.0
+2024-10-31,Machine Rows,32,8.0,1.0
+2024-10-31,Machine Rows,32,8.0,1.0
+2024-10-31,Machine Rows,32,8.0,1.0
+2024-10-31,Bicep Curls,8,8.0,1.0
+2024-10-31,Bicep Curls,12,8.0,1.0
+2024-10-31,Bicep Curls,12,8.0,1.0
+2024-10-31,Bicep Curls,8,8.0,1.0
+2024-10-31,Concentrated Bicep Curls,23,8.0,1.0
+2024-10-31,Concentrated Bicep Curls,23,8.0,1.0
+2024-10-31,Concentrated Bicep Curls,27,8.0,1.0
+2024-10-31,Rear Delt Fly,9,8.0,1.0
+2024-10-31,Rear Delt Fly,18,8.0,1.0
+2024-10-31,Rear Delt Fly,18,8.0,1.0
+2024-11-01,Shoulder Press,14,8.0,1.0
+2024-11-01,Shoulder Press,16,8.0,1.0
+2024-11-01,Shoulder Press,18,8.0,1.0
+2024-11-01,Shoulder Press,18,6.0,1.0
+2024-11-01,Lateral Raises,6,15.0,1.0
+2024-11-01,Lateral Raises,6,15.0,1.0
+2024-11-01,Lateral Raises,7,15.0,1.0
+2024-11-01,Lateral Raises,7,15.0,1.0
+2024-11-08,Squats,40,10.0,1.0
+2024-11-08,Squats,60,8.0,1.0
+2024-11-08,Squats,70,8.0,1.0
+2024-11-08,Squats,70,8.0,1.0
+2024-11-08,Leg Press,59,8.0,1.0
+2024-11-08,Leg Press,73,8.0,1.0
+2024-11-08,Leg Press,79,8.0,1.0
+2024-11-08,Leg Press,79,8.0,1.0
+2024-11-08,Leg Extensions,25,8.0,1.0
+2024-11-08,Leg Extensions,39,8.0,1.0
+2024-11-08,Leg Extensions,39,8.0,1.0
+2024-11-08,Leg Extensions,39,8.0,1.0
+2024-11-10,Bench Press,40,10.0,1.0
+2024-11-10,Bench Press,50,8.0,1.0
+2024-11-10,Bench Press,55,8.0,1.0
+2024-11-10,Bench Press,60,3.0,1.0
+2024-11-10,Incline Bench Press,18,8.0,1.0
+2024-11-10,Incline Bench Press,20,8.0,1.0
+2024-11-10,Incline Bench Press,20,8.0,1.0
+2024-11-10,Tricep Pull Downs,7,12.0,1.0
+2024-11-10,Tricep Pull Downs,7,8.0,1.0
+2024-11-10,Tricep Pull Downs,5,12.0,1.0
+2024-11-10,Tricep Pull Downs,7,12.0,1.0
+2024-11-10,Pectoral Fly'S,59,8.0,1.0
+2024-11-10,Pectoral Fly'S,66,8.0,1.0
+2024-11-10,Pectoral Fly'S,66,5.0,1.0
+2024-11-10,Pectoral Fly'S,59,6.0,1.0
+2024-11-13,Lat Pulldown,39,8.0,1.0
+2024-11-13,Lat Pulldown,3,8.0,1.0
+2024-11-13,Lat Pulldown,45,8.0,1.0
+2024-11-13,Lat Pulldown,45,8.0,1.0
+2024-11-13,Lat Pulldown,39,8.0,1.0
+2024-11-13,Machine Rows,27,8.0,1.0
+2024-11-13,Machine Rows,32,8.0,1.0
+2024-11-13,Machine Rows,32,8.0,1.0
+2024-11-13,Machine Rows,32,8.0,1.0
+2024-11-13,Cable Rows,32,8.0,1.0
+2024-11-13,Cable Rows,39,8.0,1.0
+2024-11-13,Cable Rows,32,8.0,1.0
+2024-11-13,Bicep Curls,10,8.0,1.0
+2024-11-13,Bicep Curls,12,8.0,1.0
+2024-11-13,Bicep Curls,12,8.0,1.0
+2024-11-13,Bicep Curls,10,8.0,1.0
+2024-11-14,Shoulder Press,14,8.0,1.0
+2024-11-14,Shoulder Press,14,8.0,1.0
+2024-11-14,Shoulder Press,14,8.0,1.0
+2024-11-14,Shoulder Press,14,8.0,1.0
+2024-11-14,Lateral Raises,6,15.0,1.0
+2024-11-14,Lateral Raises,6,15.0,1.0
+2024-11-14,Lateral Raises,6,15.0,1.0
+2024-11-14,Lateral Raises,6,15.0,1.0
+2024-11-16,Squats,40,10.0,1.0
+2024-11-16,Squats,60,8.0,1.0
+2024-11-16,Squats,70,8.0,1.0
+2024-11-16,Squats,70,8.0,1.0
+2024-11-16,Squats,80,5.0,1.0
+2024-11-16,Leg Press,66,8.0,1.0
+2024-11-16,Leg Press,73,8.0,1.0
+2024-11-16,Leg Press,73,8.0,1.0
+2024-11-16,Leg Press,79,8.0,1.0
+2024-11-16,Single Leg Press,18,,
+2024-11-16,Prone Leg Curl,18,8.0,1.0
+2024-11-16,Prone Leg Curl,23,8.0,1.0
+2024-11-16,Prone Leg Curl,23,8.0,1.0
+2024-11-16,Leg Extensions,25,8.0,1.0
+2024-11-16,Leg Extensions,39,8.0,1.0
+2024-11-16,Leg Extensions,39,8.0,1.0
+2024-11-16,Leg Extensions,39,8.0,1.0
+2024-11-17,Bench Press,40,10.0,1.0
+2024-11-17,Bench Press,50,8.0,1.0
+2024-11-17,Bench Press,55,8.0,1.0
+2024-11-17,Bench Press,60,3.0,1.0
+2024-11-17,Bench Press,60,1.0,1.0
+2024-11-17,Incline Bench Press,18,8.0,1.0
+2024-11-17,Incline Bench Press,20,8.0,1.0
+2024-11-17,Incline Bench Press,20,8.0,1.0
+2024-11-17,Pectoral Fly'S,59,8.0,1.0
+2024-11-17,Pectoral Fly'S,66,8.0,1.0
+2024-11-17,Pectoral Fly'S,66,8.0,1.0
+2024-11-17,Pectoral Fly'S,59,8.0,1.0
+2024-11-20,Deadlifts,40,8.0,1.0
+2024-11-20,Deadlifts,60,8.0,1.0
+2024-11-20,Deadlifts,70,8.0,1.0
+2024-11-20,Deadlifts,80,8.0,1.0
+2024-11-20,Lat Pulldown,39,8.0,1.0
+2024-11-20,Lat Pulldown,45,8.0,1.0
+2024-11-20,Lat Pulldown,45,8.0,1.0
+2024-11-20,Lat Pulldown,45,5.0,1.0
+2024-11-20,Lat Pulldown,39,8.0,1.0
+2024-11-20,Machine Rows,27,8.0,1.0
+2024-11-20,Machine Rows,32,8.0,1.0
+2024-11-20,Machine Rows,32,8.0,1.0
+2024-11-20,Cable Rows,32,8.0,1.0
+2024-11-20,Cable Rows,39,8.0,1.0
+2024-11-20,Cable Rows,32,8.0,1.0
+2024-11-20,Bicep Curls,10,8.0,1.0
+2024-11-20,Bicep Curls,12,8.0,1.0
+2024-11-20,Bicep Curls,12,8.0,1.0
+2024-11-20,Bicep Curls,10,8.0,1.0
+2024-11-21,Shoulder Press,14,8.0,1.0
+2024-11-21,Shoulder Press,14,8.0,1.0
+2024-11-21,Shoulder Press,14,8.0,1.0
+2024-11-21,Shoulder Press,14,8.0,1.0
+2024-11-21,Rear Delt Fly,25,8.0,1.0
+2024-11-21,Rear Delt Fly,25,15.0,1.0
+2024-11-21,Rear Delt Fly,25,15.0,1.0
+2024-11-21,Lateral Raises,6,15.0,1.0
+2024-11-21,Lateral Raises,6,15.0,1.0
+2024-11-21,Lateral Raises,6,15.0,1.0
+2024-11-21,Lateral Raises,6,15.0,1.0
+2024-11-23,Squats,40,10.0,1.0
+2024-11-23,Squats,60,8.0,1.0
+2024-11-23,Squats,70,8.0,1.0
+2024-11-23,Squats,70,8.0,1.0
+2024-11-23,Squats,80,6.0,1.0
+2024-11-23,Leg Press,66,8.0,1.0
+2024-11-23,Leg Press,73,8.0,1.0
+2024-11-23,Leg Press,73,8.0,1.0
+2024-11-23,Leg Press,79,8.0,1.0
+2024-11-23,Leg Extensions,25,8.0,1.0
+2024-11-23,Leg Extensions,39,8.0,1.0
+2024-11-23,Leg Extensions,39,8.0,1.0
+2024-11-23,Leg Extensions,39,8.0,1.0
+2024-11-23,Standing Calf Raises,50,15.0,1.0
+2024-11-23,Standing Calf Raises,50,15.0,1.0
+2024-11-23,Standing Calf Raises,50,15.0,1.0
+2024-11-24,Bench Press,40,10.0,1.0
+2024-11-24,Bench Press,50,8.0,1.0
+2024-11-24,Bench Press,55,8.0,1.0
+2024-11-24,Bench Press,60,3.0,1.0
+2024-11-24,Bench Press,60,1.0,1.0
+2024-11-24,Incline Bench Press,18,8.0,1.0
+2024-11-24,Incline Bench Press,20,8.0,1.0
+2024-11-24,Incline Bench Press,20,8.0,1.0
+2024-11-24,Pectoral Fly'S,59,8.0,1.0
+2024-11-24,Pectoral Fly'S,66,8.0,1.0
+2024-11-24,Pectoral Fly'S,66,8.0,1.0
+2024-11-24,Pectoral Fly'S,59,6.0,1.0
+2024-11-27,Deadlifts,40,8.0,1.0
+2024-11-27,Deadlifts,60,8.0,1.0
+2024-11-27,Deadlifts,70,8.0,1.0
+2024-11-27,Lat Pulldown,39,8.0,1.0
+2024-11-27,Lat Pulldown,45,8.0,1.0
+2024-11-27,Lat Pulldown,45,8.0,1.0
+2024-11-27,Lat Pulldown,45,5.0,1.0
+2024-11-27,Lat Pulldown,39,8.0,1.0
+2024-11-27,Machine Rows,27,8.0,1.0
+2024-11-27,Machine Rows,32,8.0,1.0
+2024-11-27,Machine Rows,32,8.0,1.0
+2024-11-27,Cable Rows,32,8.0,1.0
+2024-11-27,Cable Rows,39,8.0,1.0
+2024-11-27,Cable Rows,32,8.0,1.0
+2024-12-02,Leg Press,66,8.0,1.0
+2024-12-02,Leg Press,73,8.0,1.0
+2024-12-02,Leg Press,73,8.0,1.0
+2024-12-02,Leg Press,79,8.0,1.0
+2024-12-02,Leg Extensions,25,8.0,1.0
+2024-12-02,Leg Extensions,39,8.0,1.0
+2024-12-02,Leg Extensions,39,8.0,1.0
+2024-12-02,Leg Extensions,39,8.0,1.0
+2024-12-02,Leg Extensions,45,8.0,1.0
+2024-12-02,Leg Extensions,52,8.0,1.0
+2024-12-04,Vertical Bench Press,30,8.0,1.0
+2024-12-04,Vertical Bench Press,40,8.0,1.0
+2024-12-04,Vertical Bench Press,40,8.0,1.0
+2024-12-04,Pectoral Fly'S,59,8.0,1.0
+2024-12-04,Pectoral Fly'S,66,8.0,1.0
+2024-12-04,Pectoral Fly'S,66,8.0,1.0
+2024-12-04,Pectoral Fly'S,59,6.0,1.0
+2024-12-05,Lat Pulldown,39,8.0,1.0
+2024-12-05,Lat Pulldown,45,8.0,1.0
+2024-12-05,Lat Pulldown,45,8.0,1.0
+2024-12-05,Lat Pulldown,45,8.0,1.0
+2024-12-05,Lat Pulldown,39,8.0,1.0
+2024-12-05,Machine Rows,27,8.0,1.0
+2024-12-05,Machine Rows,32,8.0,1.0
+2024-12-05,Machine Rows,32,8.0,1.0
+2024-12-05,Arm Curls,18,8.0,1.0
+2024-12-05,Arm Curls,23,8.0,1.0
+2024-12-05,Arm Curls,23,8.0,1.0
+2024-12-11,Shoulder Press,12,8.0,1.0
+2024-12-11,Shoulder Press,14,8.0,1.0
+2024-12-11,Shoulder Press,14,8.0,1.0
+2024-12-11,Shoulder Press,14,8.0,1.0
+2024-12-11,Shoulder Press,14,8.0,1.0
+2024-12-11,Rear Delt Fly,25,8.0,1.0
+2024-12-11,Rear Delt Fly,33,8.0,1.0
+2024-12-11,Rear Delt Fly,33,8.0,1.0
+2024-12-11,Rear Delt Fly,25,15.0,1.0
+2024-12-11,Rear Delt Fly,25,15.0,1.0
+2024-12-11,Lateral Raises,6,15.0,1.0
+2024-12-11,Lateral Raises,6,15.0,1.0
+2024-12-11,Lateral Raises,6,15.0,1.0
+2024-12-11,Lateral Raises,6,15.0,1.0
+2024-12-18,Bench Press,50,4.0,1.0
+2024-12-18,Bench Press,55,8.0,1.0
+2024-12-18,Bench Press,60,6.0,1.0
+2024-12-18,Bench Press,55,9.0,1.0
+2024-12-18,Pectoral Fly'S,45,4.0,1.0
+2024-12-18,Pectoral Fly'S,35,8.0,1.0
+2024-12-18,Pectoral Fly'S,35,8.0,1.0
+2025-01-10,Bench Press,40,10.0,1.0
+2025-01-10,Bench Press,50,8.0,1.0
+2025-01-10,Bench Press,50,8.0,1.0
+2025-01-10,Bench Press,50,8.0,1.0
+2025-01-10,Incline Bench Press,18,8.0,1.0
+2025-01-10,Incline Bench Press,18,8.0,1.0
+2025-01-10,Incline Bench Press,18,8.0,1.0
+2025-01-10,Tricep Pull Downs,5,12.0,1.0
+2025-01-10,Tricep Pull Downs,5,12.0,1.0
+2025-01-10,Tricep Pull Downs,5,12.0,1.0
+2025-01-11,Deadlifts,40,8.0,1.0
+2025-01-11,Deadlifts,60,8.0,1.0
+2025-01-11,Deadlifts,70,8.0,1.0
+2025-01-11,Deadlifts,70,8.0,1.0
+2025-01-11,Lat Pulldown,39,8.0,1.0
+2025-01-11,Lat Pulldown,45,8.0,1.0
+2025-01-11,Lat Pulldown,45,8.0,1.0
+2025-01-11,Lat Pulldown,45,8.0,1.0
+2025-01-11,Lat Pulldown,39,8.0,1.0
+2025-01-11,Machine Rows,27,8.0,1.0
+2025-01-11,Machine Rows,32,8.0,1.0
+2025-01-11,Machine Rows,32,8.0,1.0
+2025-01-11,Arm Curls,18,8.0,1.0
+2025-01-11,Arm Curls,23,8.0,1.0
+2025-01-11,Arm Curls,23,8.0,1.0
+2025-01-14,Shoulder Press,12,8.0,1.0
+2025-01-14,Shoulder Press,14,8.0,1.0
+2025-01-14,Shoulder Press,14,8.0,1.0
+2025-01-14,Shoulder Press,14,8.0,1.0
+2025-01-14,Rear Delt Fly,25,8.0,1.0
+2025-01-14,Rear Delt Fly,33,8.0,1.0
+2025-01-14,Rear Delt Fly,25,20.0,1.0
+2025-01-14,Rear Delt Fly,25,20.0,1.0
+2025-01-14,Lateral Raises,6,15.0,1.0
+2025-01-14,Lateral Raises,6,15.0,1.0
+2025-01-14,Lateral Raises,6,15.0,1.0
+2025-01-14,Lateral Raises,6,15.0,1.0
+2025-01-15,Squats,40,10.0,1.0
+2025-01-15,Squats,60,8.0,1.0
+2025-01-15,Squats,70,8.0,1.0
+2025-01-15,Squats,70,8.0,1.0
+2025-01-15,Single Leg Press,18,8.0,1.0
+2025-01-15,Single Leg Press,23,8.0,1.0
+2025-01-15,Standing Calf Raises,50,15.0,1.0
+2025-01-15,Standing Calf Raises,50,15.0,1.0
+2025-01-15,Standing Calf Raises,50,15.0,1.0
+2025-01-17,Bench Press,40,10.0,1.0
+2025-01-17,Bench Press,50,8.0,1.0
+2025-01-17,Bench Press,55,8.0,1.0
+2025-01-17,Bench Press,55,8.0,1.0
+2025-01-17,Incline Bench Press,18,8.0,1.0
+2025-01-17,Incline Bench Press,18,8.0,1.0
+2025-01-17,Incline Bench Press,20,8.0,1.0
+2025-01-17,Tricep Pull Downs,5,12.0,1.0
+2025-01-17,Tricep Pull Downs,7,12.0,1.0
+2025-01-17,Tricep Pull Downs,5,2.0,1.0
+2025-01-17,Pectoral Fly'S,59,8.0,1.0
+2025-01-17,Pectoral Fly'S,59,8.0,1.0
+2025-01-17,Pectoral Fly'S,52,8.0,1.0
+2025-01-18,Deadlifts,40,8.0,1.0
+2025-01-18,Deadlifts,60,8.0,1.0
+2025-01-18,Deadlifts,70,8.0,1.0
+2025-01-18,Deadlifts,70,8.0,1.0
+2025-01-18,Deadlifts,80,8.0,1.0
+2025-01-18,Barbell Rows,30,8.0,1.0
+2025-01-18,Barbell Rows,35,8.0,1.0
+2025-01-18,Barbell Rows,35,8.0,1.0
+2025-01-18,Lat Pulldown,39,8.0,1.0
+2025-01-18,Lat Pulldown,45,8.0,1.0
+2025-01-18,Lat Pulldown,45,8.0,1.0
+2025-01-18,Lat Pulldown,45,8.0,1.0
+2025-01-18,Lat Pulldown,39,8.0,1.0
+2025-01-18,Concentrated Bicep Curls,20,8.0,1.0
+2025-01-18,Concentrated Bicep Curls,20,7.0,1.0
+2025-01-18,Concentrated Bicep Curls,20,6.0,1.0
+2025-01-22,Shoulder Press,10,8.0,1.0
+2025-01-22,Shoulder Press,14,8.0,1.0
+2025-01-22,Shoulder Press,14,8.0,1.0
+2025-01-22,Shoulder Press,14,8.0,1.0
+2025-01-22,Shoulder Press,14,8.0,1.0
+2025-01-22,Rear Delt Fly,25,8.0,1.0
+2025-01-22,Rear Delt Fly,33,8.0,1.0
+2025-01-22,Rear Delt Fly,25,20.0,1.0
+2025-01-22,Rear Delt Fly,25,20.0,1.0
+2025-01-22,Lateral Raises,6,15.0,1.0
+2025-01-22,Lateral Raises,6,15.0,1.0
+2025-01-22,Lateral Raises,6,15.0,1.0
+2025-01-22,Lateral Raises,6,15.0,1.0
+2025-01-23,Leg Press,66,8.0,1.0
+2025-01-23,Leg Press,73,8.0,1.0
+2025-01-23,Leg Press,73,8.0,1.0
+2025-01-23,Leg Press,79,8.0,1.0
+2025-01-23,Prone Leg Curl,18,8.0,1.0
+2025-01-23,Prone Leg Curl,27,8.0,1.0
+2025-01-23,Prone Leg Curl,27,8.0,1.0
+2025-01-23,Leg Extensions,25,8.0,1.0
+2025-01-23,Leg Extensions,32,10.0,1.0
+2025-01-23,Leg Extensions,39,8.0,1.0
+2025-01-23,Leg Extensions,39,8.0,1.0
+2025-01-23,Standing Calf Raises,60,15.0,1.0
+2025-01-23,Standing Calf Raises,60,15.0,1.0
+2025-01-23,Standing Calf Raises,60,15.0,1.0
+2025-01-23,Single Leg Press,25,8.0,1.0
+2025-01-23,Single Leg Press,25,8.0,1.0
+2025-01-25,Bench Press,40,10.0,1.0
+2025-01-25,Bench Press,50,8.0,1.0
+2025-01-25,Bench Press,55,8.0,1.0
+2025-01-25,Bench Press,55,8.0,1.0
+2025-01-25,Incline Bench Press,18,8.0,1.0
+2025-01-25,Incline Bench Press,20,8.0,1.0
+2025-01-25,Incline Bench Press,20,8.0,1.0
+2025-01-25,Pectoral Fly'S,52,8.0,1.0
+2025-01-25,Pectoral Fly'S,59,8.0,1.0
+2025-01-25,Pectoral Fly'S,59,8.0,1.0
+2025-01-25,Pectoral Fly'S,52,8.0,1.0
+2025-01-25,Tricep Pull Downs,5,12.0,1.0
+2025-01-25,Tricep Pull Downs,7,12.0,1.0
+2025-01-25,Tricep Pull Downs,5,2.0,1.0
+2025-01-25,Cable Lateral Raises,4,10.0,1.0
+2025-01-25,Cable Lateral Raises,4,10.0,1.0
+2025-01-26,Deadlifts,40,8.0,1.0
+2025-01-26,Deadlifts,60,8.0,1.0
+2025-01-26,Deadlifts,70,8.0,1.0
+2025-01-26,Deadlifts,80,8.0,1.0
+2025-01-26,Deadlifts,80,8.0,1.0
+2025-01-26,Seated Row,15,8.0,1.0
+2025-01-26,Seated Row,20,8.0,1.0
+2025-01-26,Lat Pulldown,39,8.0,1.0
+2025-01-26,Lat Pulldown,45,8.0,1.0
+2025-01-26,Lat Pulldown,45,8.0,1.0
+2025-01-26,Lat Pulldown,45,8.0,1.0
+2025-01-26,Lat Pulldown,39,8.0,1.0
+2025-01-26,Concentrated Bicep Curls,20,8.0,1.0
+2025-01-26,Concentrated Bicep Curls,20,8.0,1.0
+2025-01-26,Concentrated Bicep Curls,20,8.0,1.0
+2025-01-30,Shoulder Press,10,8.0,1.0
+2025-01-30,Shoulder Press,14,8.0,1.0
+2025-01-30,Shoulder Press,14,8.0,1.0
+2025-01-30,Shoulder Press,14,8.0,1.0
+2025-01-30,Shoulder Press,14,8.0,1.0
+2025-01-30,Rear Delt Fly,25,8.0,1.0
+2025-01-30,Rear Delt Fly,33,8.0,1.0
+2025-01-30,Rear Delt Fly,25,20.0,1.0
+2025-01-30,Rear Delt Fly,25,20.0,1.0
+2025-01-30,Lateral Raises,6,15.0,1.0
+2025-01-30,Lateral Raises,6,15.0,1.0
+2025-01-30,Lateral Raises,6,15.0,1.0
+2025-01-30,Lateral Raises,6,15.0,1.0
+2025-01-30,Face Pulls,10,10.0,1.0
+2025-01-30,Face Pulls,7,15.0,1.0
+2025-01-30,Face Pulls,17,15.0,1.0
+2025-01-30,Face Pulls,7,15.0,1.0
+2025-02-01,Bench Press,40,10.0,1.0
+2025-02-01,Bench Press,50,8.0,1.0
+2025-02-01,Bench Press,55,8.0,1.0
+2025-02-01,Bench Press,55,8.0,1.0
+2025-02-01,Incline Bench Press,18,8.0,1.0
+2025-02-01,Incline Bench Press,20,8.0,1.0
+2025-02-01,Incline Bench Press,22,8.0,1.0
+2025-02-01,Pectoral Fly'S,52,8.0,1.0
+2025-02-01,Pectoral Fly'S,59,8.0,1.0
+2025-02-01,Pectoral Fly'S,59,8.0,1.0
+2025-02-01,Pectoral Fly'S,52,8.0,1.0
+2025-02-01,Tricep Pull Downs,5,12.0,1.0
+2025-02-01,Tricep Pull Downs,7,12.0,1.0
+2025-02-01,Tricep Pull Downs,7,12.0,1.0
+2025-02-01,Cable Lateral Raises,4,10.0,1.0
+2025-02-02,Deadlifts,40,8.0,1.0
+2025-02-02,Deadlifts,60,8.0,1.0
+2025-02-02,Deadlifts,70,8.0,1.0
+2025-02-02,Deadlifts,80,8.0,1.0
+2025-02-02,Deadlifts,80,8.0,1.0
+2025-02-02,Seated Row,10,13.0,1.0
+2025-02-02,Lat Pulldown,39,8.0,1.0
+2025-02-02,Lat Pulldown,45,8.0,1.0
+2025-02-02,Lat Pulldown,45,8.0,1.0
+2025-02-02,Lat Pulldown,45,8.0,1.0
+2025-02-02,Lat Pulldown,39,8.0,1.0
+2025-02-02,Concentrated Bicep Curls,20,8.0,1.0
+2025-02-02,Concentrated Bicep Curls,20,8.0,1.0
+2025-02-02,Concentrated Bicep Curls,20,8.0,1.0
+2025-02-08,Shoulder Press,10,8.0,1.0
+2025-02-08,Shoulder Press,14,8.0,1.0
+2025-02-08,Shoulder Press,16,8.0,1.0
+2025-02-08,Shoulder Press,16,8.0,1.0
+2025-02-08,Shoulder Press,16,8.0,1.0
+2025-02-08,Rear Delt Fly,25,8.0,1.0
+2025-02-08,Rear Delt Fly,33,8.0,1.0
+2025-02-08,Rear Delt Fly,25,20.0,1.0
+2025-02-08,Rear Delt Fly,25,20.0,1.0
+2025-02-08,Lateral Raises,6,15.0,1.0
+2025-02-08,Lateral Raises,6,15.0,1.0
+2025-02-08,Lateral Raises,6,15.0,1.0
+2025-02-08,Lateral Raises,6,15.0,1.0
+2025-02-08,Face Pulls,10,10.0,1.0
+2025-02-08,Face Pulls,7,15.0,1.0
+2025-02-08,Face Pulls,17,15.0,1.0
+2025-02-08,Face Pulls,7,15.0,1.0
+2025-02-09,Squats,40,10.0,1.0
+2025-02-09,Squats,60,8.0,1.0
+2025-02-09,Squats,70,8.0,1.0
+2025-02-09,Squats,70,8.0,1.0
+2025-02-09,Romanian Deadlifts,40,8.0,1.0
+2025-02-09,Romanian Deadlifts,50,8.0,1.0
+2025-02-09,Romanian Deadlifts,50,8.0,1.0
+2025-02-09,Barbell Lunges,20,5.0,1.0
+2025-02-09,Barbell Lunges,20,8.0,1.0
+2025-02-09,Leg Press,66,8.0,1.0
+2025-02-09,Leg Press,73,8.0,1.0
+2025-02-09,Leg Press,73,8.0,1.0
+2025-02-09,Leg Press,79,8.0,1.0
+2025-02-09,Prone Leg Curl,18,8.0,1.0
+2025-02-09,Prone Leg Curl,27,8.0,1.0
+2025-02-09,Prone Leg Curl,27,8.0,1.0
+2025-02-09,Leg Extensions,25,8.0,1.0
+2025-02-09,Leg Extensions,32,10.0,1.0
+2025-02-09,Leg Extensions,39,8.0,1.0
+2025-02-09,Leg Extensions,39,8.0,1.0
+2025-02-09,Single Leg Press,25,8.0,1.0
+2025-02-09,Single Leg Press,25,8.0,1.0
+2025-02-09,Standing Calf Raises,20,15.0,1.0
+2025-02-09,Standing Calf Raises,20,15.0,1.0
+2025-02-09,Standing Calf Raises,20,15.0,1.0
+2025-02-18,Dumbbell Bench Press,20,8.0,1.0
+2025-02-18,Dumbbell Bench Press,20,8.0,1.0
+2025-02-18,Dumbbell Bench Press,20,8.0,1.0
+2025-02-18,Dumbbell Bench Press,22,8.0,1.0
+2025-02-18,Incline Bench Press,22,8.0,1.0
+2025-02-18,Incline Bench Press,18,8.0,1.0
+2025-02-18,Incline Bench Press,18,8.0,1.0
+2025-02-18,Pectoral Fly'S,52,8.0,1.0
+2025-02-18,Pectoral Fly'S,52,8.0,1.0
+2025-02-18,Pectoral Fly'S,52,8.0,1.0
+2025-02-18,Tricep Pull Downs,5,12.0,1.0
+2025-02-18,Tricep Pull Downs,7,12.0,1.0
+2025-02-18,Tricep Pull Downs,7,12.0,1.0
+2025-02-18,Tricep Pull Downs,5,12.0,1.0
+2025-02-21,Deadlifts,60,8.0,1.0
+2025-02-21,Deadlifts,70,8.0,1.0
+2025-02-21,Deadlifts,80,8.0,1.0
+2025-02-21,Deadlifts,80,8.0,1.0
+2025-02-21,Lat Pulldown,39,8.0,1.0
+2025-02-21,Lat Pulldown,45,8.0,1.0
+2025-02-21,Lat Pulldown,45,8.0,1.0
+2025-02-21,Lat Pulldown,45,8.0,1.0
+2025-02-21,Arm Curls,18,8.0,1.0
+2025-02-21,Arm Curls,23,8.0,1.0
+2025-02-21,Arm Curls,27,8.0,1.0
+2025-02-21,Arm Curls,27,8.0,1.0
+2025-02-22,Shoulder Press,10,8.0,1.0
+2025-02-22,Shoulder Press,14,8.0,1.0
+2025-02-22,Shoulder Press,14,8.0,1.0
+2025-02-22,Shoulder Press,14,8.0,1.0
+2025-02-22,Shoulder Press,16,8.0,1.0
+2025-02-22,Rear Delt Fly,25,8.0,1.0
+2025-02-22,Rear Delt Fly,33,8.0,1.0
+2025-02-22,Rear Delt Fly,25,20.0,1.0
+2025-02-22,Rear Delt Fly,25,20.0,1.0
+2025-02-22,Lateral Raises,6,15.0,1.0
+2025-02-22,Lateral Raises,6,15.0,1.0
+2025-02-22,Lateral Raises,6,15.0,1.0
+2025-02-22,Lateral Raises,6,15.0,1.0
+2025-02-22,Face Pulls,5,8.0,1.0
+2025-02-22,Face Pulls,7,15.0,1.0
+2025-02-22,Face Pulls,7,15.0,1.0
+2025-02-23,Squats,40,10.0,1.0
+2025-02-23,Squats,60,8.0,1.0
+2025-02-23,Squats,70,8.0,1.0
+2025-02-23,Squats,70,8.0,1.0
+2025-02-23,Romanian Deadlifts,40,8.0,1.0
+2025-02-23,Romanian Deadlifts,50,8.0,1.0
+2025-02-23,Romanian Deadlifts,50,8.0,1.0
+2025-02-23,Leg Press,66,8.0,1.0
+2025-02-23,Leg Press,73,8.0,1.0
+2025-02-23,Leg Press,73,8.0,1.0
+2025-02-23,Leg Extensions,25,8.0,1.0
+2025-02-23,Leg Extensions,32,10.0,1.0
+2025-02-23,Leg Extensions,39,8.0,1.0
+2025-02-23,Leg Extensions,39,8.0,1.0
+2025-02-23,Standing Calf Raises,50,15.0,1.0
+2025-02-23,Standing Calf Raises,50,15.0,1.0
+2025-02-23,Standing Calf Raises,50,15.0,1.0
+2025-02-26,Bench Press,40,10.0,1.0
+2025-02-26,Bench Press,50,8.0,1.0
+2025-02-26,Bench Press,55,8.0,1.0
+2025-02-26,Incline Bench Press,18,8.0,1.0
+2025-02-26,Incline Bench Press,18,8.0,1.0
+2025-02-26,Incline Bench Press,20,8.0,1.0
+2025-02-26,Pectoral Fly'S,52,8.0,1.0
+2025-02-26,Pectoral Fly'S,59,8.0,1.0
+2025-02-26,Pectoral Fly'S,59,8.0,1.0
+2025-02-26,Tricep Pull Downs,5,12.0,1.0
+2025-02-26,Tricep Pull Downs,7,12.0,1.0
+2025-02-26,Tricep Pull Downs,7,12.0,1.0
+2025-02-26,Tricep Pull Downs,5,12.0,1.0
+2025-02-28,Deadlifts,60,8.0,1.0
+2025-02-28,Deadlifts,80,8.0,1.0
+2025-02-28,Deadlifts,80,8.0,1.0
+2025-02-28,Deadlifts,80,8.0,1.0
+2025-02-28,Machine Rows,27,8.0,1.0
+2025-02-28,Machine Rows,32,8.0,1.0
+2025-02-28,Machine Rows,36,8.0,1.0
+2025-02-28,Lat Pulldown,39,8.0,1.0
+2025-02-28,Lat Pulldown,45,8.0,1.0
+2025-02-28,Lat Pulldown,45,8.0,1.0
+2025-02-28,Lat Pulldown,45,8.0,1.0
+2025-02-28,Lat Pulldown,39,8.0,1.0
+2025-02-28,Arm Curls,18,8.0,1.0
+2025-02-28,Arm Curls,23,8.0,1.0
+2025-02-28,Arm Curls,27,8.0,1.0
+2025-02-28,Arm Curls,27,8.0,1.0
+2025-03-01,Shoulder Press,10,8.0,1.0
+2025-03-01,Shoulder Press,14,8.0,1.0
+2025-03-01,Shoulder Press,14,8.0,1.0
+2025-03-01,Shoulder Press,16,8.0,1.0
+2025-03-01,Shoulder Press,16,8.0,1.0
+2025-03-01,Rear Delt Fly,25,8.0,1.0
+2025-03-01,Rear Delt Fly,33,8.0,1.0
+2025-03-01,Rear Delt Fly,25,20.0,1.0
+2025-03-01,Rear Delt Fly,25,20.0,1.0
+2025-03-01,Cable Lateral Raises,4,15.0,1.0
+2025-03-01,Cable Lateral Raises,4,15.0,1.0
+2025-03-01,Cable Lateral Raises,4,15.0,1.0
+2024-03-04,Squats,40,10.0,1.0
+2024-03-04,Squats,60,8.0,1.0
+2024-03-04,Squats,60,8.0,1.0
+2024-03-04,Squats,60,8.0,1.0
+2024-03-04,Romanian Deadlifts,40,8.0,1.0
+2024-03-04,Romanian Deadlifts,50,8.0,1.0
+2024-03-04,Romanian Deadlifts,50,8.0,1.0
+2024-03-04,Leg Press,66,8.0,1.0
+2024-03-04,Leg Press,73,8.0,1.0
+2024-03-04,Leg Press,79,8.0,1.0
+2024-03-04,Leg Extensions,25,8.0,1.0
+2024-03-04,Leg Extensions,32,10.0,1.0
+2024-03-04,Leg Extensions,39,8.0,1.0
+2024-03-04,Leg Extensions,39,8.0,1.0
+2024-03-04,Standing Calf Raises,50,15.0,1.0
+2024-03-04,Standing Calf Raises,50,15.0,1.0
+2024-03-04,Standing Calf Raises,50,15.0,1.0
+2025-03-06,Bench Press,40,10.0,1.0
+2025-03-06,Bench Press,50,8.0,1.0
+2025-03-06,Bench Press,55,8.0,1.0
+2025-03-06,Pectoral Fly'S,52,8.0,1.0
+2025-03-06,Pectoral Fly'S,59,8.0,1.0
+2025-03-06,Pectoral Fly'S,66,4.0,1.0
+2025-03-06,Pectoral Fly'S,59,8.0,1.0
+2025-03-06,Tricep Pull Downs,5,12.0,1.0
+2025-03-06,Tricep Pull Downs,7,12.0,1.0
+2025-03-06,Tricep Pull Downs,7,12.0,1.0
+2025-03-06,Tricep Pull Downs,7,12.0,1.0
+2025-03-07,Deadlifts,60,8.0,1.0
+2025-03-07,Deadlifts,80,8.0,1.0
+2025-03-07,Deadlifts,80,8.0,1.0
+2025-03-07,Deadlifts,80,8.0,1.0
+2025-03-07,Lat Pulldown,39,8.0,1.0
+2025-03-07,Lat Pulldown,45,8.0,1.0
+2025-03-07,Lat Pulldown,45,8.0,1.0
+2025-03-07,Lat Pulldown,45,8.0,1.0
+2025-03-07,Lat Pulldown,39,8.0,1.0
+2025-03-07,Machine Rows,27,8.0,1.0
+2025-03-07,Machine Rows,32,8.0,1.0
+2025-03-07,Machine Rows,36,8.0,1.0
+2025-03-07,Concentrated Bicep Curls,20,8.0,1.0
+2025-03-07,Concentrated Bicep Curls,20,8.0,1.0
+2025-03-07,Concentrated Bicep Curls,20,8.0,1.0
+2025-03-12,Shoulder Press,10,8.0,1.0
+2025-03-12,Shoulder Press,14,8.0,1.0
+2025-03-12,Shoulder Press,14,8.0,1.0
+2025-03-12,Shoulder Press,16,8.0,1.0
+2025-03-12,Shoulder Press,16,8.0,1.0
+2025-03-12,Rear Delt Fly,25,8.0,1.0
+2025-03-12,Rear Delt Fly,33,8.0,1.0
+2025-03-12,Rear Delt Fly,25,20.0,1.0
+2025-03-12,Rear Delt Fly,25,20.0,1.0
+2025-03-12,Lateral Raises,6,15.0,1.0
+2025-03-12,Lateral Raises,6,15.0,1.0
+2025-03-12,Lateral Raises,6,15.0,1.0
+2025-03-12,Lateral Raises,6,15.0,1.0
+2025-03-13,Squats,40,10.0,1.0
+2025-03-13,Squats,60,8.0,1.0
+2025-03-13,Squats,60,8.0,1.0
+2025-03-13,Squats,60,8.0,1.0
+2025-03-13,Leg Press,66,8.0,1.0
+2025-03-13,Leg Press,73,8.0,1.0
+2025-03-13,Leg Press,79,8.0,1.0
+2025-03-13,Leg Press,79,8.0,1.0
+2025-03-13,Leg Extensions,25,8.0,1.0
+2025-03-13,Leg Extensions,32,10.0,1.0
+2025-03-13,Leg Extensions,39,8.0,1.0
+2025-03-13,Leg Extensions,39,8.0,1.0
+2025-03-13,Standing Calf Raises,50,15.0,1.0
+2025-03-13,Standing Calf Raises,50,15.0,1.0
+2025-03-13,Standing Calf Raises,50,15.0,1.0
+2025-03-16,Bench Press,40,10.0,1.0
+2025-03-16,Bench Press,50,8.0,1.0
+2025-03-16,Bench Press,55,8.0,1.0
+2025-03-16,Incline Bench Press,18,8.0,1.0
+2025-03-16,Incline Bench Press,18,8.0,1.0
+2025-03-16,Incline Bench Press,20,8.0,1.0
+2025-03-16,Incline Bench Press,20,8.0,1.0
+2025-03-16,Pectoral Fly'S,52,8.0,1.0
+2025-03-16,Pectoral Fly'S,59,8.0,1.0
+2025-03-16,Pectoral Fly'S,66,4.0,1.0
+2025-03-16,Pectoral Fly'S,59,8.0,1.0
+2025-03-16,Tricep Pull Downs,5,12.0,1.0
+2025-03-16,Tricep Pull Downs,7,12.0,1.0
+2025-03-16,Tricep Pull Downs,7,12.0,1.0
+2025-03-16,Tricep Pull Downs,7,12.0,1.0
+2025-03-19,Lat Pulldown,39,8.0,1.0
+2025-03-19,Lat Pulldown,45,8.0,1.0
+2025-03-19,Lat Pulldown,45,8.0,1.0
+2025-03-19,Lat Pulldown,45,8.0,1.0
+2025-03-19,Lat Pulldown,39,8.0,1.0
+2025-03-19,Machine Rows,27,8.0,1.0
+2025-03-19,Machine Rows,32,8.0,1.0
+2025-03-19,Machine Rows,36,8.0,1.0
+2025-03-19,Arm Curls,18,8.0,1.0
+2025-03-19,Arm Curls,23,8.0,1.0
+2025-03-19,Arm Curls,27,8.0,1.0
+2025-03-19,Arm Curls,27,8.0,1.0
+2025-03-19,Arm Curls,32,2.0,1.0
+2025-03-21,Shoulder Press,10,8.0,1.0
+2025-03-21,Shoulder Press,14,8.0,1.0
+2025-03-21,Shoulder Press,14,8.0,1.0
+2025-03-21,Shoulder Press,16,8.0,1.0
+2025-03-21,Shoulder Press,16,8.0,1.0
+2025-03-21,Rear Delt Fly,25,8.0,1.0
+2025-03-21,Rear Delt Fly,33,8.0,1.0
+2025-03-21,Rear Delt Fly,25,20.0,1.0
+2025-03-21,Rear Delt Fly,25,20.0,1.0
+2025-03-21,Lateral Raises,6,15.0,1.0
+2025-03-21,Lateral Raises,6,15.0,1.0
+2025-03-21,Lateral Raises,6,15.0,1.0
+2025-03-21,Lateral Raises,6,15.0,1.0
+2025-04-11,Bench Press,40,10.0,1.0
+2025-04-11,Bench Press,50,8.0,1.0
+2025-04-11,Bench Press,55,8.0,1.0
+2025-04-11,Bench Press,55,8.0,1.0
+2025-04-11,Bench Press,60,3.0,1.0
+2025-04-11,Incline Bench Press,18,8.0,1.0
+2025-04-11,Incline Bench Press,18,8.0,1.0
+2025-04-11,Incline Bench Press,20,8.0,1.0
+2025-04-11,Incline Bench Press,20,8.0,1.0
+2025-04-11,Pectoral Fly'S,52,8.0,1.0
+2025-04-11,Pectoral Fly'S,59,8.0,1.0
+2025-04-11,Pectoral Fly'S,59,8.0,1.0
+2025-04-11,Pectoral Fly'S,59,8.0,1.0
+2025-04-11,Tricep Pull Downs,5,12.0,1.0
+2025-04-11,Tricep Pull Downs,7,12.0,1.0
+2025-04-11,Tricep Pull Downs,7,12.0,1.0
+2025-04-11,Tricep Pull Downs,7,12.0,1.0
+2025-04-12,Deadlifts,60,8.0,1.0
+2025-04-12,Deadlifts,70,8.0,1.0
+2025-04-12,Deadlifts,70,8.0,1.0
+2025-04-12,Lat Pulldown,39,8.0,1.0
+2025-04-12,Lat Pulldown,45,8.0,1.0
+2025-04-12,Lat Pulldown,45,8.0,1.0
+2025-04-12,Lat Pulldown,45,8.0,1.0
+2025-04-12,Lat Pulldown,39,8.0,1.0
+2025-04-12,Machine Rows,27,8.0,1.0
+2025-04-12,Machine Rows,32,8.0,1.0
+2025-04-12,Machine Rows,32,8.0,1.0
+2025-04-12,Machine Rows,36,8.0,1.0
+2025-04-12,Concentrated Bicep Curls,20,8.0,1.0
+2025-04-12,Concentrated Bicep Curls,20,8.0,1.0
+2025-04-12,Concentrated Bicep Curls,20,8.0,1.0
+2025-04-12,Concentrated Bicep Curls,25,3.0,1.0
+2025-04-15,Shoulder Press,10,8.0,1.0
+2025-04-15,Shoulder Press,14,8.0,1.0
+2025-04-15,Shoulder Press,16,8.0,1.0
+2025-04-15,Shoulder Press,16,8.0,1.0
+2025-04-15,Shoulder Press,16,8.0,1.0
+2025-04-15,Shoulder Press,18,4.0,1.0
+2025-04-15,Rear Delt Fly,25,8.0,1.0
+2025-04-15,Rear Delt Fly,33,10.0,1.0
+2025-04-15,Rear Delt Fly,33,15.0,1.0
+2025-04-15,Rear Delt Fly,25,20.0,1.0
+2025-04-15,Lateral Raises,6,15.0,1.0
+2025-04-15,Lateral Raises,6,15.0,1.0
+2025-04-15,Lateral Raises,6,15.0,1.0
+2025-04-15,Lateral Raises,6,15.0,1.0
+2025-04-17,Squats,40,10.0,1.0
+2025-04-17,Squats,60,8.0,1.0
+2025-04-17,Squats,60,8.0,1.0
+2025-04-17,Squats,60,8.0,1.0
+2025-04-17,Romanian Deadlifts,40,8.0,1.0
+2025-04-17,Romanian Deadlifts,50,8.0,1.0
+2025-04-17,Romanian Deadlifts,50,8.0,1.0
+2025-04-17,Leg Press,66,8.0,1.0
+2025-04-17,Leg Press,66,8.0,1.0
+2025-04-17,Leg Press,73,8.0,1.0
+2025-04-17,Leg Press,73,8.0,1.0
+2025-04-17,Prone Leg Curl,18,8.0,1.0
+2025-04-17,Prone Leg Curl,27,8.0,1.0
+2025-04-17,Prone Leg Curl,27,8.0,1.0
+2025-04-17,Leg Extensions,25,8.0,1.0
+2025-04-17,Leg Extensions,32,10.0,1.0
+2025-04-17,Leg Extensions,39,8.0,1.0
+2025-04-17,Leg Extensions,39,8.0,1.0
+2025-04-18,Bench Press,40,10.0,1.0
+2025-04-18,Bench Press,50,8.0,1.0
+2025-04-18,Bench Press,55,8.0,1.0
+2025-04-18,Bench Press,55,8.0,1.0
+2025-04-18,Bench Press,60,4.0,1.0
+2025-04-18,Incline Bench Press,18,8.0,1.0
+2025-04-18,Incline Bench Press,20,8.0,1.0
+2025-04-18,Incline Bench Press,20,8.0,1.0
+2025-04-18,Incline Bench Press,22,8.0,1.0
+2025-04-18,Pectoral Fly'S,52,8.0,1.0
+2025-04-18,Pectoral Fly'S,59,8.0,1.0
+2025-04-18,Pectoral Fly'S,59,8.0,1.0
+2025-04-18,Pectoral Fly'S,59,8.0,1.0
+2025-04-18,Tricep Pull Downs,5,12.0,1.0
+2025-04-18,Tricep Pull Downs,7,12.0,1.0
+2025-04-18,Tricep Pull Downs,7,12.0,1.0
+2025-04-18,Tricep Pull Downs,7,12.0,1.0
+2025-04-18,Rear Delt Fly,25,20.0,1.0
+2025-04-18,Rear Delt Fly,25,20.0,1.0
+2025-04-18,Cable Lateral Raises,4,8.0,1.0
+2025-04-18,Cable Lateral Raises,4,8.0,1.0
+2025-04-23,Deadlifts,60,8.0,1.0
+2025-04-23,Deadlifts,70,8.0,1.0
+2025-04-23,Deadlifts,70,8.0,1.0
+2025-04-23,Lat Pulldown,39,8.0,1.0
+2025-04-23,Lat Pulldown,45,8.0,1.0
+2025-04-23,Lat Pulldown,45,8.0,1.0
+2025-04-23,Lat Pulldown,45,8.0,1.0
+2025-04-23,Lat Pulldown,39,8.0,1.0
+2025-04-23,Machine Rows,32,8.0,1.0
+2025-04-23,Machine Rows,36,8.0,1.0
+2025-04-23,Machine Rows,32,8.0,1.0
+2025-04-23,Machine Rows,32,8.0,1.0
+2025-04-23,Concentrated Bicep Curls,20,8.0,1.0
+2025-04-23,Concentrated Bicep Curls,20,8.0,1.0
+2025-04-23,Concentrated Bicep Curls,25,3.0,1.0
+2025-04-23,Concentrated Bicep Curls,20,8.0,1.0
+2025-04-24,Shoulder Press,12,8.0,1.0
+2025-04-24,Shoulder Press,16,8.0,1.0
+2025-04-24,Shoulder Press,16,8.0,1.0
+2025-04-24,Shoulder Press,18,8.0,1.0
+2025-04-24,Shoulder Press,18,8.0,1.0
+2025-04-24,Rear Delt Fly,25,8.0,1.0
+2025-04-24,Rear Delt Fly,32,10.0,1.0
+2025-04-24,Rear Delt Fly,32,15.0,1.0
+2025-04-24,Rear Delt Fly,25,20.0,1.0
+2025-04-24,Lateral Raises,6,15.0,1.0
+2025-04-24,Lateral Raises,6,15.0,1.0
+2025-04-24,Lateral Raises,6,15.0,1.0
+2025-04-24,Lateral Raises,6,15.0,1.0
+2025-04-26,Squats,40,10.0,1.0
+2025-04-26,Squats,60,8.0,1.0
+2025-04-26,Squats,70,8.0,1.0
+2025-04-26,Squats,70,8.0,1.0
+2025-04-26,Squats,80,4.0,1.0
+2025-04-26,Romanian Deadlifts,40,8.0,1.0
+2025-04-26,Romanian Deadlifts,50,8.0,1.0
+2025-04-26,Romanian Deadlifts,50,8.0,1.0
+2025-04-26,Leg Press,66,8.0,1.0
+2025-04-26,Leg Press,66,8.0,1.0
+2025-04-26,Leg Press,73,8.0,1.0
+2025-04-26,Leg Press,73,8.0,1.0
+2025-04-26,Prone Leg Curl,18,8.0,1.0
+2025-04-26,Prone Leg Curl,27,8.0,1.0
+2025-04-26,Prone Leg Curl,27,8.0,1.0
+2025-04-26,Leg Extensions,25,8.0,1.0
+2025-04-26,Leg Extensions,32,10.0,1.0
+2025-04-26,Leg Extensions,39,8.0,1.0
+2025-04-26,Leg Extensions,39,8.0,1.0
+2025-04-27,Bench Press,40,10.0,1.0
+2025-04-27,Bench Press,55,8.0,1.0
+2025-04-27,Bench Press,55,8.0,1.0
+2025-04-27,Bench Press,60,5.0,1.0
+2025-04-27,Bench Press,60,4.0,1.0
+2025-04-27,Incline Bench Press,20,8.0,1.0
+2025-04-27,Incline Bench Press,20,8.0,1.0
+2025-04-27,Incline Bench Press,22,5.0,1.0
+2025-04-27,Incline Bench Press,20,8.0,1.0
+2025-04-27,Pectoral Fly'S,52,8.0,1.0
+2025-04-27,Pectoral Fly'S,59,8.0,1.0
+2025-04-27,Pectoral Fly'S,59,8.0,1.0
+2025-04-27,Pectoral Fly'S,59,8.0,1.0
+2025-04-27,Tricep Pull Downs,5,12.0,1.0
+2025-04-27,Tricep Pull Downs,7,12.0,1.0
+2025-04-27,Tricep Pull Downs,7,12.0,1.0
+2025-04-27,Tricep Pull Downs,7,12.0,1.0
+2025-04-27,Cable Lateral Raises,4,8.0,1.0
+2025-04-27,Cable Lateral Raises,4,8.0,1.0
+2025-04-27,Cable Lateral Raises,4,8.0,1.0
+2025-05-01,Deadlifts,60,8.0,1.0
+2025-05-01,Deadlifts,70,8.0,1.0
+2025-05-01,Deadlifts,70,8.0,1.0
+2025-05-01,Lat Pulldown,39,8.0,1.0
+2025-05-01,Lat Pulldown,45,8.0,1.0
+2025-05-01,Lat Pulldown,45,8.0,1.0
+2025-05-01,Lat Pulldown,45,8.0,1.0
+2025-05-01,Lat Pulldown,39,8.0,1.0
+2025-05-01,Machine Rows,32,8.0,1.0
+2025-05-01,Machine Rows,36,8.0,1.0
+2025-05-01,Machine Rows,32,8.0,1.0
+2025-05-01,Machine Rows,32,8.0,1.0
+2025-05-01,Arm Curls,18,8.0,1.0
+2025-05-01,Arm Curls,23,8.0,1.0
+2025-05-01,Arm Curls,27,8.0,1.0
+2025-05-01,Arm Curls,27,8.0,1.0
+2025-05-01,Arm Curls,32,5.0,1.0
