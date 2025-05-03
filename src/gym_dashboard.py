@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the structured gym log CSV
-df = pd.read_csv("data/structured_public.csv")
+df = pd.read_csv("public_data/structured_public.csv")
 
 # Convert Date column to datetime
 df["Date"] = pd.to_datetime(df["Date"])
