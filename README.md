@@ -2,6 +2,9 @@
 
 A personal data project that turns my own unstructured gym notes into a structured dataset and visual dashboard for tracking my progress, training volume, and consistency over time.
 
+You can see the dashboard here:
+https://gym-log-dashboard-khongre2qzxyzy9xggxme9.streamlit.app/
+
 ## 🚀 Features
 
 ### 🧠 Smart Parser (Python)
