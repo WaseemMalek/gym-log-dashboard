@@ -3,22 +3,35 @@ Waseem's Gym Log Parser & Dashboard
 A personal data project that turns my own unstructured gym notes into a structured dataset and visual dashboard for tracking my progress, training volume, and consistency over time.
 
 🚀 Features
+
 🧠 Smart Parser (Python)
+
 Reads messy, free-form gym logs from a .txt file
+
 Extracts exercise names, weights, reps, and sets
 
 Handles edge cases like:
+
 Skipped full exercises (- skipped)
+
 Skipped last N sets (- skipped last 3 sets)
+
 Notes like "form can improve" or "tired"
+
 Normalizes exercise names (e.g. deadlift, deadlifts, dead lift → Deadlifts)
+
 Outputs clean .csv data
 
 📊 Streamlit Dashboard
+
 Select an exercise and view either:
+
 Max weight progression over time
+
 Volume progression over time (weight × reps × sets)
+
 View gym visit frequency grouped by:
+
 Year
 Month
 Week
