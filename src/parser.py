@@ -140,7 +140,7 @@ if __name__ == "__main__":
     # File paths
     input_file = "data/gym_log_raw.txt"
     output_full = "data/structured_gym_log.csv"
-    output_public = "data/structured_public.csv"
+    output_public = "public_data/structured_public.csv"
 
     df = parse_gym_log(input_file)
     print(f"\nParsed {len(df)} rows.")
